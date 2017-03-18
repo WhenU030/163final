@@ -1,0 +1,3 @@
+vegas,6
+pay,6
+people,6

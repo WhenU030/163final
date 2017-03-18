@@ -1,0 +1,4 @@
+customer,6
+nordstrom,13
+service,8
+store,8

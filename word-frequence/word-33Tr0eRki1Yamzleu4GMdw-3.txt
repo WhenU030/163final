@@ -1,0 +1,3 @@
+food,6
+french,9
+time,6

@@ -1,0 +1,4 @@
+front,6
+hotel,8
+breakfast,6
+desk,7

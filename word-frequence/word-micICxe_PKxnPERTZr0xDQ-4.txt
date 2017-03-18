@@ -1,0 +1,5 @@
+estimate,8
+service,8
+motors,6
+garage,8
+broken,7

@@ -1,0 +1,5 @@
+sauce,7
+food,11
+didn,9
+chicken,6
+pasta,16

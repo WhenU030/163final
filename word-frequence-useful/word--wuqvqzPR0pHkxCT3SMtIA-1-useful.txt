@@ -1,0 +1,5 @@
+dance,7
+vegas,6
+club,6
+rain,12
+time,10

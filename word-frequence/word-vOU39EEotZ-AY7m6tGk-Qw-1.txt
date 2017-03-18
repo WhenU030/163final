@@ -1,0 +1,2 @@
+chairs,6
+pool,25

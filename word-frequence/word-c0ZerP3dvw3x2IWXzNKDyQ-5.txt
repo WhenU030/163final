@@ -1,0 +1,7 @@
+vegas,7
+toast,6
+food,7
+eggs,13
+cheap,7
+steak,17
+special,7

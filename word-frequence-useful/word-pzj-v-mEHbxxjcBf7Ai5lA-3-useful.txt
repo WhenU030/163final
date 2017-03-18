@@ -1,0 +1,6 @@
+motel,7
+bed,6
+clean,6
+night,8
+check,8
+star,7

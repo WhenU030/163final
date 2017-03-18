@@ -1,0 +1,4 @@
+food,8
+dim,7
+sum,7
+shrimp,7

@@ -1,0 +1,4 @@
+starbucks,6
+tea,6
+ice,7
+light,6

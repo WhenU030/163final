@@ -1,0 +1,4 @@
+food,10
+didn,6
+service,9
+sushi,8

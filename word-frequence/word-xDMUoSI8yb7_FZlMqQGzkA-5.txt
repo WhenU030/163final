@@ -1,0 +1,7 @@
+phone,6
+customer,7
+service,8
+store,15
+price,7
+buy,16
+time,6

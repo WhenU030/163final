@@ -1,0 +1,3 @@
+counter,6
+food,6
+couple,6

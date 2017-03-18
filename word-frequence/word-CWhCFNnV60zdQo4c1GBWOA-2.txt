@@ -1,0 +1,4 @@
+ramen,13
+soup,6
+food,6
+wasn,6

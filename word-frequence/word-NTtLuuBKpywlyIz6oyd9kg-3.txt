@@ -1,0 +1,4 @@
+fish,6
+rolls,7
+sushi,18
+roll,6

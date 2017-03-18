@@ -1,0 +1,2 @@
+shop,6
+tattoo,13

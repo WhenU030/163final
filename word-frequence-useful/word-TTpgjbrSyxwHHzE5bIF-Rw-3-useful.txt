@@ -1,0 +1,3 @@
+nthe,8
+indian,14
+food,10

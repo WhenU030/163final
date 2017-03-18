@@ -1,0 +1,4 @@
+rio,7
+food,10
+fries,7
+minutes,6

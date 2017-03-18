@@ -1,0 +1,3 @@
+ramen,11
+food,6
+wasn,6

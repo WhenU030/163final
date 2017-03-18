@@ -1,0 +1,3 @@
+produce,10
+fish,6
+selection,8

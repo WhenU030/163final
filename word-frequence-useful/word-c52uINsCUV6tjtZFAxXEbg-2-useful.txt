@@ -1,0 +1,2 @@
+spa,8
+attendant,6

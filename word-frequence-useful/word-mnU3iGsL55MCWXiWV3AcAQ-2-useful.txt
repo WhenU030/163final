@@ -1,0 +1,3 @@
+burger,8
+fries,6
+burgers,7

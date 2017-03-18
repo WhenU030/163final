@@ -1,0 +1,6 @@
+fish,7
+rice,9
+sushi,19
+eat,6
+rolls,7
+time,6

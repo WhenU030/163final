@@ -1,0 +1,4 @@
+tacos,15
+court,6
+food,12
+chronic,6

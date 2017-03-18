@@ -1,0 +1,2 @@
+drinks,8
+time,6

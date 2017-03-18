@@ -1,0 +1,2 @@
+paris,6
+love,6

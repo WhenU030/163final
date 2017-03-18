@@ -1,0 +1,6 @@
+sour,7
+shrimp,6
+food,8
+card,6
+bland,6
+chicken,11

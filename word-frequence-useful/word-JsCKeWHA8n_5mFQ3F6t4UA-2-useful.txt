@@ -1,0 +1,5 @@
+guacamole,6
+salsa,9
+food,15
+chicken,6
+chips,8

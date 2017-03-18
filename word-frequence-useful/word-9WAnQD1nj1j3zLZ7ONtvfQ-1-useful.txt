@@ -1,0 +1,4 @@
+food,6
+service,6
+don,6
+restaurant,6

@@ -1,0 +1,3 @@
+food,19
+table,6
+time,9

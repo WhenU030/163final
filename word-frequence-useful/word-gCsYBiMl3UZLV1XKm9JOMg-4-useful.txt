@@ -1,0 +1,2 @@
+garage,7
+door,8

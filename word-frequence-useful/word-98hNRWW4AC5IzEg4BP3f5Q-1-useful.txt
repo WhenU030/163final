@@ -1,0 +1,5 @@
+waitress,7
+food,6
+owner,6
+sushi,14
+eat,9

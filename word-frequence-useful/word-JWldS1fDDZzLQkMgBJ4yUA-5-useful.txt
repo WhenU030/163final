@@ -1,0 +1,5 @@
+nthe,6
+factory,7
+laugh,8
+funny,6
+time,6

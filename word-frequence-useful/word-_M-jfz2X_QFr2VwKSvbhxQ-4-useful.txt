@@ -1,0 +1,4 @@
+dealership,6
+service,13
+car,8
+mini,10

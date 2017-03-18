@@ -1,0 +1,4 @@
+manager,6
+finally,6
+food,8
+didn,8

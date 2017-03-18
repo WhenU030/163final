@@ -1,0 +1,5 @@
+time,6
+food,15
+chicken,8
+boba,6
+thai,6

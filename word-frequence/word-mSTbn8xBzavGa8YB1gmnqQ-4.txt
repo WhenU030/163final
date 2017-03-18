@@ -1,0 +1,4 @@
+hospital,7
+spring,6
+son,6
+valley,6

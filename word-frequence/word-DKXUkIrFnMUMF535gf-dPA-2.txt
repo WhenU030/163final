@@ -1,0 +1,3 @@
+food,10
+taco,8
+fries,7

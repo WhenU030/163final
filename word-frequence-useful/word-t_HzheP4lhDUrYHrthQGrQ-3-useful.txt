@@ -1,0 +1,9 @@
+clothes,14
+section,6
+clothing,6
+shoes,7
+size,7
+store,18
+forever,18
+selection,6
+cheap,9

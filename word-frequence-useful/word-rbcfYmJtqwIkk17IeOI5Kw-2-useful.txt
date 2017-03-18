@@ -1,0 +1,4 @@
+service,6
+nthe,7
+plate,6
+steak,8

@@ -1,0 +1,3 @@
+smoothies,12
+smoothie,10
+sugar,7

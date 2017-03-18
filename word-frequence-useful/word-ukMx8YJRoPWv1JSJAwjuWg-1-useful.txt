@@ -1,0 +1,4 @@
+car,19
+wash,8
+cleaned,6
+inside,6

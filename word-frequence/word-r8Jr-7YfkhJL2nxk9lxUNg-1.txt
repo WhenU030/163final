@@ -1,0 +1,5 @@
+mexican,7
+food,8
+service,7
+restaurant,9
+table,6

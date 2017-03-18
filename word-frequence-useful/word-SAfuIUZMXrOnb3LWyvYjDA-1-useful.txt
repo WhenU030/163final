@@ -1,0 +1,4 @@
+soup,10
+food,14
+yukaejang,7
+restaurant,8

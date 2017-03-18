@@ -1,0 +1,3 @@
+food,9
+station,6
+time,7

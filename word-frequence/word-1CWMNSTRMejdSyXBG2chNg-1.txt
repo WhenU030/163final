@@ -1,0 +1,4 @@
+food,9
+service,6
+menu,6
+time,7

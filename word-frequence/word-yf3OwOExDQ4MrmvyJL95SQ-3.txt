@@ -1,0 +1,4 @@
+appointment,7
+blow,8
+hair,14
+stars,6

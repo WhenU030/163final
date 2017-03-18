@@ -1,0 +1,2 @@
+katsu,7
+rice,6

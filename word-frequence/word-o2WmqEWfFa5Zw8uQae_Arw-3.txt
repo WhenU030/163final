@@ -1,0 +1,4 @@
+moving,6
+elite,8
+delivery,8
+star,6

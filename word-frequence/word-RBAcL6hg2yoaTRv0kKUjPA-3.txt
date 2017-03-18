@@ -1,0 +1,9 @@
+try,8
+poke,36
+food,8
+fish,7
+wasn,6
+bowl,6
+ahi,11
+hawaiian,8
+fresh,6

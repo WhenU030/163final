@@ -1,0 +1,4 @@
+food,10
+cheese,7
+rachel,6
+fries,7

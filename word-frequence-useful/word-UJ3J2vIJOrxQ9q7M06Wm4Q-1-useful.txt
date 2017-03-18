@@ -1,0 +1,6 @@
+day,12
+don,7
+river,9
+cabana,12
+mandalay,8
+pool,20

@@ -1,0 +1,4 @@
+food,12
+restaurant,7
+table,8
+time,11

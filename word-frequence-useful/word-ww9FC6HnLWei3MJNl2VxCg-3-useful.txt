@@ -1,0 +1,2 @@
+bowling,10
+lanes,6

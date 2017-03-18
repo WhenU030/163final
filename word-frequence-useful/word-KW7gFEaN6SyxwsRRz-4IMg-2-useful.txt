@@ -1,0 +1,7 @@
+gun,14
+ammo,10
+lanes,8
+range,15
+shooting,8
+lane,6
+time,9

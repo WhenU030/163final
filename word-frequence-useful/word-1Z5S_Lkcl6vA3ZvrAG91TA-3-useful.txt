@@ -1,0 +1,6 @@
+food,9
+flavor,6
+puerto,12
+con,6
+rican,10
+little,7

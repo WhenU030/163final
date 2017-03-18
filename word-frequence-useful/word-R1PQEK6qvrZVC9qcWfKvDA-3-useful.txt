@@ -1,0 +1,2 @@
+chicken,6
+stars,7

@@ -1,0 +1,2 @@
+mexican,7
+food,10

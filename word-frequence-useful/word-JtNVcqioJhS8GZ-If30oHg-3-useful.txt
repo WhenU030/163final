@@ -1,0 +1,3 @@
+pretty,6
+cars,7
+car,6

@@ -1,0 +1,4 @@
+appointment,7
+sam,7
+laser,8
+procedure,6

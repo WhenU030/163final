@@ -1,0 +1,2 @@
+tattoo,19
+clean,7

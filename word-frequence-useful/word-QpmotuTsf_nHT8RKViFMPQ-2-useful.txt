@@ -1,0 +1,2 @@
+burger,11
+fries,7

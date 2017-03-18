@@ -1,0 +1,5 @@
+venue,6
+arena,7
+bad,6
+seats,9
+night,8

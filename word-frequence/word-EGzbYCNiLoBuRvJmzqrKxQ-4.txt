@@ -1,0 +1,4 @@
+dogs,17
+dog,8
+home,6
+time,8

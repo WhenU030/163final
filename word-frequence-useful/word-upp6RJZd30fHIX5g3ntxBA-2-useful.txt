@@ -1,0 +1,6 @@
+water,7
+checked,6
+top,6
+hotel,7
+desk,6
+time,7

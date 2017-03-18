@@ -1,0 +1,6 @@
+hours,8
+house,6
+clean,8
+cleaning,7
+ladies,6
+time,7

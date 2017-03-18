@@ -1,0 +1,3 @@
+people,8
+vip,6
+festival,12

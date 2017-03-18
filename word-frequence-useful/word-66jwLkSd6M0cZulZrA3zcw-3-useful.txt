@@ -1,0 +1,4 @@
+food,10
+service,8
+applebee,15
+happy,8

@@ -1,0 +1,4 @@
+bacon,6
+burger,12
+garlic,6
+fries,8

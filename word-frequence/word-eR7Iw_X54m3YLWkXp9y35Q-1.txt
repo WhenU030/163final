@@ -1,0 +1,4 @@
+katsu,7
+rice,7
+restaurant,12
+party,7

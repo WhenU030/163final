@@ -1,0 +1,5 @@
+soup,7
+food,13
+time,13
+dishes,8
+table,6

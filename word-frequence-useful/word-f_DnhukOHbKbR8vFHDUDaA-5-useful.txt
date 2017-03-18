@@ -1,0 +1,5 @@
+shop,9
+stores,7
+meadows,6
+mall,20
+fashion,7

@@ -1,0 +1,6 @@
+hour,7
+food,9
+dog,9
+cajun,6
+happy,7
+fries,6

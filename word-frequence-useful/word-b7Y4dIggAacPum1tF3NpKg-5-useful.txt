@@ -1,0 +1,4 @@
+vegas,7
+pizza,20
+food,7
+rosati,9

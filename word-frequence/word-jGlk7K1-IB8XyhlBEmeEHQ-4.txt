@@ -1,0 +1,3 @@
+carpet,6
+rug,7
+owner,12

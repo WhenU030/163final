@@ -1,0 +1,3 @@
+try,6
+salad,8
+sushi,7

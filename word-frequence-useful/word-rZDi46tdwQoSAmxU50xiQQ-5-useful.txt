@@ -1,0 +1,4 @@
+casino,6
+food,6
+fun,6
+time,8

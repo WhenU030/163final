@@ -1,0 +1,3 @@
+store,9
+walmart,7
+location,8

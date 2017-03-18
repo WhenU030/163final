@@ -1,0 +1,3 @@
+cut,7
+hair,13
+color,9

@@ -1,0 +1,4 @@
+location,8
+food,6
+spring,6
+mountain,6

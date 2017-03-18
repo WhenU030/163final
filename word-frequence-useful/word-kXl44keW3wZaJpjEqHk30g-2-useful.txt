@@ -1,0 +1,3 @@
+farmer,6
+food,15
+boys,6

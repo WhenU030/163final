@@ -1,0 +1,3 @@
+vegas,6
+bar,11
+nice,7

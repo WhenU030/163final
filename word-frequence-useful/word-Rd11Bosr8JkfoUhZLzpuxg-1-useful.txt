@@ -1,0 +1,5 @@
+lunch,6
+service,7
+table,6
+minutes,6
+time,7

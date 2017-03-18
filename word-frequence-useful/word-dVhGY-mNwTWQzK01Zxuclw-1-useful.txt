@@ -1,0 +1,3 @@
+dish,7
+food,11
+bad,8

@@ -1,0 +1,3 @@
+service,7
+curry,6
+thai,15

@@ -1,0 +1,4 @@
+tattoo,21
+definitely,6
+clean,8
+studio,6

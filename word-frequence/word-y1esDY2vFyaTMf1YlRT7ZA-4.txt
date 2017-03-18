@@ -1,0 +1,6 @@
+mozzarella,6
+town,7
+sauce,7
+pizza,18
+square,7
+restaurant,7

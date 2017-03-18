@@ -1,0 +1,4 @@
+food,13
+service,10
+bar,13
+time,7

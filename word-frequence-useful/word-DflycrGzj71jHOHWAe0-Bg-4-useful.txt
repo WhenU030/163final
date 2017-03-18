@@ -1,0 +1,2 @@
+car,18
+rental,7

@@ -1,0 +1,4 @@
+strip,6
+hotel,8
+airport,7
+shuttle,15

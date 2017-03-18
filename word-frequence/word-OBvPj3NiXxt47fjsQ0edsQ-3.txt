@@ -1,0 +1,3 @@
+dance,6
+drinks,6
+club,10

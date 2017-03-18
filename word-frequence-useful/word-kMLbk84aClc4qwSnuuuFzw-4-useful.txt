@@ -1,0 +1,4 @@
+tickets,6
+fun,7
+theater,6
+time,6

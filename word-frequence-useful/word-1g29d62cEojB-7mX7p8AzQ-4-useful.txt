@@ -1,0 +1,4 @@
+salad,8
+chef,11
+sake,10
+kanji,8

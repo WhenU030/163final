@@ -1,0 +1,4 @@
+dogs,19
+park,21
+trash,6
+dog,15

@@ -1,0 +1,7 @@
+drinks,8
+fun,6
+night,6
+people,6
+clubs,8
+bus,11
+club,14

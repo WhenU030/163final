@@ -1,0 +1,3 @@
+boxes,7
+cookies,13
+store,6

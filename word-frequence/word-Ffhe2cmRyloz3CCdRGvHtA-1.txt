@@ -1,0 +1,4 @@
+sandwich,31
+food,7
+earl,7
+eat,7

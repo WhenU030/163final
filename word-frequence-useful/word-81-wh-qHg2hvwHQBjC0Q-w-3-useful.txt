@@ -1,0 +1,10 @@
+family,8
+free,7
+bedroom,10
+worldmark,6
+condo,7
+kitchen,6
+bathroom,8
+strip,6
+stay,7
+time,10

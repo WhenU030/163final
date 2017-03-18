@@ -1,0 +1,4 @@
+told,9
+tattoo,13
+didn,8
+price,6

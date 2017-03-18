@@ -1,0 +1,4 @@
+massage,29
+hot,8
+stones,6
+groupon,9

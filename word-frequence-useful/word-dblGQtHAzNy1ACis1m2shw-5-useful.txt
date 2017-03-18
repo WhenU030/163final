@@ -1,0 +1,9 @@
+chinese,10
+love,8
+food,17
+chicken,7
+beef,6
+favorite,7
+shrimp,7
+fried,6
+nice,6

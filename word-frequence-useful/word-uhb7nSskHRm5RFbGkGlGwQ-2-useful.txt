@@ -1,0 +1,4 @@
+food,17
+biscuits,10
+service,8
+breakfast,8

@@ -1,0 +1,4 @@
+burger,21
+cheese,8
+onion,7
+fries,6

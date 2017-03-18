@@ -1,0 +1,4 @@
+detroit,9
+coney,7
+chili,7
+dog,6

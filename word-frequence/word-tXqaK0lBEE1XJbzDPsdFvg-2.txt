@@ -1,0 +1,7 @@
+burger,21
+nthe,6
+farmer,8
+food,11
+breakfast,8
+chicken,9
+fries,6

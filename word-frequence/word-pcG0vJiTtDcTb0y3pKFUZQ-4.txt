@@ -1,0 +1,4 @@
+chicken,7
+try,6
+delivery,7
+food,12

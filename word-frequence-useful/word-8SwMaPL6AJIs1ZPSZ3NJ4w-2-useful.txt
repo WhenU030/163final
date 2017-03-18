@@ -1,0 +1,3 @@
+nthe,6
+food,16
+service,7

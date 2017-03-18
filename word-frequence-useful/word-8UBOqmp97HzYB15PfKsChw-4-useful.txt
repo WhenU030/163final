@@ -1,0 +1,4 @@
+guy,6
+car,17
+lexus,8
+nice,8

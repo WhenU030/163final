@@ -1,0 +1,3 @@
+nordstrom,8
+service,7
+store,6

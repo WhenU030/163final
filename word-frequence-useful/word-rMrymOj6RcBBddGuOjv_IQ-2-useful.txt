@@ -1,0 +1,4 @@
+seats,9
+bad,6
+stage,6
+arena,9

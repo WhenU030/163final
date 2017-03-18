@@ -1,0 +1,3 @@
+service,7
+hotel,16
+nice,7

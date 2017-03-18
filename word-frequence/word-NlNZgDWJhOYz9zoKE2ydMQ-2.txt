@@ -1,0 +1,3 @@
+fake,6
+canal,6
+stores,6

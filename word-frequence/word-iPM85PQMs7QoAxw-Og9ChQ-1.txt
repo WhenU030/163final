@@ -1,0 +1,4 @@
+food,8
+waitress,6
+service,6
+restaurant,7

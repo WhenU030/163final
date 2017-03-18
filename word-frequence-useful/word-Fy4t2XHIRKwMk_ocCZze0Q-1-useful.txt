@@ -1,0 +1,4 @@
+steaks,6
+cheese,7
+steak,10
+butter,7

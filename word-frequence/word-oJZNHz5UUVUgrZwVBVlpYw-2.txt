@@ -1,0 +1,5 @@
+tea,32
+service,9
+bar,10
+sandwiches,9
+afternoon,8

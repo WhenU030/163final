@@ -1,0 +1,6 @@
+smoothie,12
+free,6
+service,6
+smoothies,11
+location,9
+time,6

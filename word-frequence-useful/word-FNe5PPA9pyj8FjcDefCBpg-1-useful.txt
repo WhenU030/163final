@@ -1,0 +1,4 @@
+food,10
+weera,7
+delivery,6
+thai,7

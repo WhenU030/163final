@@ -1,0 +1,4 @@
+food,7
+meat,6
+rick,9
+bbq,12

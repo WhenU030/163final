@@ -1,0 +1,3 @@
+food,9
+hands,10
+gloves,8

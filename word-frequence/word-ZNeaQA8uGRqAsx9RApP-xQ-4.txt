@@ -1,0 +1,8 @@
+manager,6
+car,18
+day,6
+service,7
+time,11
+firestone,8
+battery,7
+called,8

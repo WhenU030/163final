@@ -1,0 +1,3 @@
+lounge,6
+don,6
+bar,10

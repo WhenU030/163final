@@ -1,0 +1,4 @@
+food,17
+chicken,8
+rice,6
+beef,7

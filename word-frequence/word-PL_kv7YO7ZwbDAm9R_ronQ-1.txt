@@ -1,0 +1,6 @@
+daughter,7
+experience,6
+helicopter,7
+flight,10
+pilot,7
+people,7

@@ -1,0 +1,5 @@
+nthe,6
+drinks,7
+smoke,13
+bar,11
+tiki,10

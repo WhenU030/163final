@@ -1,0 +1,6 @@
+house,7
+hair,7
+carpet,11
+service,6
+cleaning,15
+carpets,6

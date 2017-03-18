@@ -1,0 +1,5 @@
+club,8
+food,9
+free,7
+service,6
+cathouse,6

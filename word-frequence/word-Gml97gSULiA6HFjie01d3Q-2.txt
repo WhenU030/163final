@@ -1,0 +1,4 @@
+food,9
+delivery,7
+pizza,10
+time,9

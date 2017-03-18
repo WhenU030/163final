@@ -1,0 +1,6 @@
+crust,7
+pizza,19
+food,7
+cheese,8
+delivery,6
+sticks,7

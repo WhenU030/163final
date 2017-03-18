@@ -1,0 +1,3 @@
+beers,14
+pretty,6
+beer,6

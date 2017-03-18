@@ -1,0 +1,4 @@
+burger,8
+grill,7
+food,8
+didn,6

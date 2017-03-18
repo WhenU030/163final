@@ -1,0 +1,5 @@
+chinese,6
+chicken,11
+food,6
+soup,8
+egg,8

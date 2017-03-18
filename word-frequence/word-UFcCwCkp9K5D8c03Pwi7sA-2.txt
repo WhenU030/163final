@@ -1,0 +1,3 @@
+service,6
+rice,6
+sushi,15

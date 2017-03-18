@@ -1,0 +1,2 @@
+steak,12
+eggs,6

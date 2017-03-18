@@ -1,0 +1,6 @@
+vegas,6
+didn,10
+bouquet,8
+flowers,14
+wedding,6
+time,7

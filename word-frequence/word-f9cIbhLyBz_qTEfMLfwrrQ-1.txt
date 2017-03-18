@@ -1,0 +1,6 @@
+rice,6
+sauce,6
+food,8
+shrimp,13
+curry,6
+hawaiian,9

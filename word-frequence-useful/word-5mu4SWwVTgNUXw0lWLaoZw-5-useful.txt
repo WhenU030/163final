@@ -1,0 +1,4 @@
+service,6
+store,6
+macy,17
+bikini,6

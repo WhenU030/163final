@@ -1,0 +1,4 @@
+tour,13
+canyon,8
+helicopter,7
+time,8

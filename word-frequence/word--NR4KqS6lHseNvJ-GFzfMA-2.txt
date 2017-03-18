@@ -1,0 +1,7 @@
+chocolate,7
+cookie,7
+tasted,7
+flavor,10
+flavors,11
+churro,6
+gelato,14

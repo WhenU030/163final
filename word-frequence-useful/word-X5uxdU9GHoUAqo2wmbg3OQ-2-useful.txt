@@ -1,0 +1,2 @@
+rice,6
+curry,7

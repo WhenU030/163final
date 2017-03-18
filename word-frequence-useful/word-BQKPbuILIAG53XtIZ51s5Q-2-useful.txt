@@ -1,0 +1,2 @@
+chili,10
+fries,6

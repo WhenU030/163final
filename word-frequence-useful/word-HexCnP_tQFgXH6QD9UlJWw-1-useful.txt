@@ -1,0 +1,3 @@
+hours,8
+store,6
+time,8

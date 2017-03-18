@@ -1,0 +1,3 @@
+tire,12
+tires,18
+car,6

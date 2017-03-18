@@ -1,0 +1,7 @@
+chinese,11
+food,16
+chicken,8
+rice,10
+wok,8
+chop,16
+fried,10

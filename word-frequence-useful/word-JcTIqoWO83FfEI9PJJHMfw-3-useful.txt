@@ -1,0 +1,6 @@
+gun,7
+store,6
+staff,6
+range,15
+shooting,9
+time,8

@@ -1,0 +1,3 @@
+food,8
+wings,16
+time,6

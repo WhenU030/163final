@@ -1,0 +1,2 @@
+studio,8
+club,7

@@ -1,0 +1,3 @@
+beer,8
+pizza,6
+garlic,6

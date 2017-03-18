@@ -1,0 +1,3 @@
+people,10
+table,6
+trivia,7

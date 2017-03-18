@@ -1,0 +1,4 @@
+sandwich,6
+food,10
+bad,6
+restaurant,6

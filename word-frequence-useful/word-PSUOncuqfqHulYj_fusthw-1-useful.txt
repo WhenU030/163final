@@ -1,0 +1,4 @@
+burger,15
+didn,6
+night,7
+fries,6

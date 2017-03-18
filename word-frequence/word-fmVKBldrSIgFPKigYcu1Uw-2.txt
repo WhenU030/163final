@@ -1,0 +1,3 @@
+chicken,9
+chinese,7
+food,10

@@ -1,0 +1,4 @@
+guy,6
+rice,7
+bowl,9
+half,6

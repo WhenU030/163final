@@ -1,0 +1,3 @@
+wash,8
+car,20
+time,8

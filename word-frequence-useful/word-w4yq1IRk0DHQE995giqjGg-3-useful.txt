@@ -1,0 +1,3 @@
+drink,6
+minutes,6
+time,9

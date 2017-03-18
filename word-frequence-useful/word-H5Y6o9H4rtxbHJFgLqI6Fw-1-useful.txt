@@ -1,0 +1,4 @@
+manager,6
+food,6
+service,7
+rude,6

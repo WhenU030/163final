@@ -1,0 +1,3 @@
+tabu,9
+drinks,8
+bartenders,6

@@ -1,0 +1,2 @@
+cards,6
+credit,6

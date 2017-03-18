@@ -1,0 +1,4 @@
+salad,16
+soup,7
+sweet,7
+time,6

@@ -1,0 +1,3 @@
+food,18
+service,7
+breakfast,9

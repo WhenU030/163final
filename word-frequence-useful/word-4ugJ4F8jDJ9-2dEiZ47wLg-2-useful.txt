@@ -1,0 +1,4 @@
+hour,8
+chicken,6
+happy,6
+roll,9

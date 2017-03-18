@@ -1,0 +1,3 @@
+burger,10
+fries,13
+food,11

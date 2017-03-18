@@ -1,0 +1,4 @@
+noodles,6
+thai,17
+food,6
+pad,8

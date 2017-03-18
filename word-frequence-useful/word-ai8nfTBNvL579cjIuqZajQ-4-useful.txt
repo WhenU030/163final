@@ -1,0 +1,2 @@
+wings,6
+pizza,11

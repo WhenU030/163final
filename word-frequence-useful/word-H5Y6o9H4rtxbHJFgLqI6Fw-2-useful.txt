@@ -1,0 +1,2 @@
+table,8
+fries,6

@@ -1,0 +1,6 @@
+phone,6
+pizza,9
+food,12
+isn,6
+service,6
+giuseppe,7

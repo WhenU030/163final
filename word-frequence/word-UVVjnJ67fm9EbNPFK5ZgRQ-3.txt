@@ -1,0 +1,7 @@
+burger,12
+drinks,6
+lounge,6
+food,6
+bar,11
+prices,6
+fries,8

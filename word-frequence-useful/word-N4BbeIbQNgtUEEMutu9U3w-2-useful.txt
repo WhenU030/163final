@@ -1,0 +1,5 @@
+waitress,6
+didn,6
+bbq,12
+dave,6
+meat,8

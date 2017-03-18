@@ -1,0 +1,4 @@
+food,7
+potatoes,9
+waitress,7
+omelet,10

@@ -1,0 +1,3 @@
+cashier,6
+store,7
+line,6

@@ -1,0 +1,5 @@
+crepe,20
+sweet,7
+ice,13
+crepes,13
+cream,14

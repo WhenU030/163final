@@ -1,0 +1,3 @@
+bar,11
+drinks,6
+time,8

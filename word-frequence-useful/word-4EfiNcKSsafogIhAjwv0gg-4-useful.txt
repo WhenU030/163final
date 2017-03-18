@@ -1,0 +1,6 @@
+friendly,6
+pizza,27
+food,7
+delicious,6
+garlic,6
+delivery,6

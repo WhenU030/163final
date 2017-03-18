@@ -1,0 +1,4 @@
+amy,7
+hair,13
+cut,6
+groupon,6

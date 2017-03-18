@@ -1,0 +1,6 @@
+bar,7
+waited,7
+beer,6
+minutes,7
+pizza,11
+time,8

@@ -1,0 +1,4 @@
+awesome,7
+food,15
+happy,7
+chicken,6

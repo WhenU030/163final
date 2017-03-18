@@ -1,0 +1,12 @@
+fan,10
+michael,8
+guy,6
+awesome,7
+didn,6
+jackson,9
+bad,6
+dancers,12
+seating,6
+stage,6
+music,9
+time,7

@@ -1,0 +1,4 @@
+manager,6
+burger,7
+tasted,6
+nachos,6

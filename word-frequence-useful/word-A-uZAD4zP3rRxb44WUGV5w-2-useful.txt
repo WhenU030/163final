@@ -1,0 +1,4 @@
+food,7
+sushi,7
+walked,6
+time,7

@@ -1,0 +1,3 @@
+healthy,8
+food,13
+service,7

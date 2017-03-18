@@ -1,0 +1,4 @@
+food,15
+thai,9
+chicken,6
+curry,13

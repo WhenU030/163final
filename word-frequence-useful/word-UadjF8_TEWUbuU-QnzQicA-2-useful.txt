@@ -1,0 +1,7 @@
+resort,8
+front,7
+service,7
+hotel,9
+desk,7
+stay,8
+nice,7

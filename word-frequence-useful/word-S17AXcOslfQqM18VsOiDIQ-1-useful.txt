@@ -1,0 +1,6 @@
+kids,7
+salon,6
+nail,11
+pedicure,10
+nails,11
+time,6

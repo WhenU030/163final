@@ -1,0 +1,5 @@
+car,31
+rental,12
+fast,7
+service,10
+budget,11

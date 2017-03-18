@@ -1,0 +1,3 @@
+service,9
+pay,7
+dog,9

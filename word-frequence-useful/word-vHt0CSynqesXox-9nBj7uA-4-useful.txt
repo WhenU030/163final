@@ -1,0 +1,3 @@
+salsa,6
+food,13
+chips,6

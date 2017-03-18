@@ -1,0 +1,2 @@
+tequila,7
+tacos,9

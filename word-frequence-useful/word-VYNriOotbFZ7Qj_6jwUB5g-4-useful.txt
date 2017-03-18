@@ -1,0 +1,4 @@
+try,8
+sauce,6
+food,7
+restaurant,7

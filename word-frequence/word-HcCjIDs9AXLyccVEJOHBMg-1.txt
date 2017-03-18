@@ -1,0 +1,3 @@
+told,7
+shop,6
+tattoo,10

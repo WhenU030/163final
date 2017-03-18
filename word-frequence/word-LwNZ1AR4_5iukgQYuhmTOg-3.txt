@@ -1,0 +1,4 @@
+car,14
+help,6
+service,10
+bmw,7

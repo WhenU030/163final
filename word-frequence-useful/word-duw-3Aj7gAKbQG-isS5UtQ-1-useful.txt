@@ -1,0 +1,2 @@
+verandah,6
+food,6

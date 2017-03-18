@@ -1,0 +1,4 @@
+vegas,8
+food,14
+charro,7
+restaurant,9

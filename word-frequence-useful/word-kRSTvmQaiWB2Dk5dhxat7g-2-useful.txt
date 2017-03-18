@@ -1,0 +1,3 @@
+salon,6
+gel,9
+nails,16

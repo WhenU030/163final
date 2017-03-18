@@ -1,0 +1,4 @@
+fries,6
+food,8
+gyro,8
+greek,7

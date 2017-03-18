@@ -1,0 +1,3 @@
+food,6
+card,6
+buffet,10

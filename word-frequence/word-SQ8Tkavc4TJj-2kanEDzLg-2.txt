@@ -1,0 +1,5 @@
+crust,10
+customer,6
+pizza,33
+delivery,8
+pizzas,6

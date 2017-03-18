@@ -1,0 +1,6 @@
+chinese,6
+food,10
+takeout,7
+chicken,7
+wok,6
+chop,11

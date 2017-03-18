@@ -1,0 +1,4 @@
+sauce,7
+pizza,22
+wings,6
+time,6

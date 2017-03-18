@@ -1,0 +1,2 @@
+chicken,10
+sauce,8

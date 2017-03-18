@@ -1,0 +1,6 @@
+music,6
+karaoke,7
+steak,7
+food,11
+rock,8
+circus,10

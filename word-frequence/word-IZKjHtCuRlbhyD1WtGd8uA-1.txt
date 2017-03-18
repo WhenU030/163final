@@ -1,0 +1,2 @@
+club,6
+promoter,6

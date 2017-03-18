@@ -1,0 +1,5 @@
+bakery,6
+stars,8
+coffee,6
+didn,6
+cake,12

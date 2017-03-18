@@ -1,0 +1,4 @@
+seekh,7
+food,14
+kabob,9
+chicken,11

@@ -1,0 +1,9 @@
+sundae,12
+nthe,6
+linq,7
+ghirardelli,12
+sundaes,11
+ice,17
+inside,7
+cream,18
+chocolate,13

@@ -1,0 +1,4 @@
+food,8
+server,6
+service,6
+decor,6

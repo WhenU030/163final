@@ -1,0 +1,3 @@
+cool,6
+bar,12
+drink,7

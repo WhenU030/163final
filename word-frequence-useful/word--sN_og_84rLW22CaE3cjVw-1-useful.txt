@@ -1,0 +1,7 @@
+food,18
+half,7
+tray,7
+kare,6
+husband,6
+trays,20
+catering,7

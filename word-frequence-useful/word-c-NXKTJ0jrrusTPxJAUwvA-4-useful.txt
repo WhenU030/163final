@@ -1,0 +1,4 @@
+burger,8
+nthe,10
+red,9
+robin,9

@@ -1,0 +1,4 @@
+vegas,7
+ski,16
+friends,7
+time,7

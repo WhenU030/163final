@@ -1,0 +1,5 @@
+tires,35
+told,6
+discount,7
+tire,26
+time,6

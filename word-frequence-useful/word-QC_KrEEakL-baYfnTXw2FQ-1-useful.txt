@@ -1,0 +1,7 @@
+told,10
+phone,28
+fix,6
+fixed,9
+screen,11
+warranty,6
+minutes,6

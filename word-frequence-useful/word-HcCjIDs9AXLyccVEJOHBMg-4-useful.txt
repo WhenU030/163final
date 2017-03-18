@@ -1,0 +1,6 @@
+downtown,6
+britney,7
+shop,6
+tattoo,22
+getting,9
+time,6

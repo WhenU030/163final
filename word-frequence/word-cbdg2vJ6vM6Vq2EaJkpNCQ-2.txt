@@ -1,0 +1,3 @@
+vet,6
+didn,6
+dog,9

@@ -1,0 +1,3 @@
+smoothies,6
+smoothie,18
+tropical,8

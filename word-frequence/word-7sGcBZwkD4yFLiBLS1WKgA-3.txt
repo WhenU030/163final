@@ -1,0 +1,5 @@
+pide,9
+sandwich,8
+smoothie,8
+food,9
+staff,6

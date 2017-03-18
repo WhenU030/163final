@@ -1,0 +1,4 @@
+pizza,27
+pepperoni,6
+cheese,7
+slice,6

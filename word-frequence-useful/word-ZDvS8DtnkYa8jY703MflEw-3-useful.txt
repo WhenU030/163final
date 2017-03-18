@@ -1,0 +1,3 @@
+burger,8
+food,10
+diner,6

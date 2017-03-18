@@ -1,0 +1,6 @@
+steaks,6
+salad,6
+sunday,13
+food,9
+service,6
+steak,14

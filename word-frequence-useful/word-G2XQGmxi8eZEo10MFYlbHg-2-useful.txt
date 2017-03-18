@@ -1,0 +1,4 @@
+vet,10
+day,6
+adopted,6
+dog,9

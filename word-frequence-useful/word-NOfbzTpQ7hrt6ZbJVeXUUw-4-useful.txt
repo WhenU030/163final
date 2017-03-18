@@ -1,0 +1,4 @@
+food,13
+little,6
+service,7
+drink,6

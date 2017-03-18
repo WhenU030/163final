@@ -1,0 +1,3 @@
+chocolate,6
+coffee,13
+jar,8

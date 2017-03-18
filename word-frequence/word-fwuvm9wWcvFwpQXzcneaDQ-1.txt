@@ -1,0 +1,3 @@
+tickets,10
+top,7
+carrot,6

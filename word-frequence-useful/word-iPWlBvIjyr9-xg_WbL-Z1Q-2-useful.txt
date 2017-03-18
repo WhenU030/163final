@@ -1,0 +1,8 @@
+hours,6
+vehicle,7
+kiosk,7
+register,6
+people,8
+line,8
+dmv,17
+time,6

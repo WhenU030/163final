@@ -1,0 +1,2 @@
+pasta,7
+soup,6

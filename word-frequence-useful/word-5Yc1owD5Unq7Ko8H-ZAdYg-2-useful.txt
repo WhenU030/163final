@@ -1,0 +1,6 @@
+vegas,9
+tickets,7
+vip,7
+jokes,9
+seats,8
+time,7

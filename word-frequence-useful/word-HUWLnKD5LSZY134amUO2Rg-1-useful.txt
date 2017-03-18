@@ -1,0 +1,4 @@
+salad,8
+pizza,12
+fries,6
+time,7

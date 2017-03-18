@@ -1,0 +1,3 @@
+pretty,7
+bacon,8
+burger,24

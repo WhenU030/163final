@@ -1,0 +1,4 @@
+bagel,15
+bagels,9
+shmear,6
+nice,6

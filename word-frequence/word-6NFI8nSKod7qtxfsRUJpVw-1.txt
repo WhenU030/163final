@@ -1,0 +1,5 @@
+ice,13
+hours,6
+closed,9
+cream,13
+time,7

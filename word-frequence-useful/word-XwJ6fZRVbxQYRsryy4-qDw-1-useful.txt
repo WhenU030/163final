@@ -1,0 +1,5 @@
+food,12
+owner,6
+crawfish,7
+table,7
+shrimp,6

@@ -1,0 +1,3 @@
+food,6
+chicken,8
+bowl,10

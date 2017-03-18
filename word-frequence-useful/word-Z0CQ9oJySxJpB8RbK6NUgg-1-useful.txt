@@ -1,0 +1,7 @@
+donuts,6
+customer,6
+coffee,17
+free,7
+doughnuts,6
+location,9
+doughnut,7

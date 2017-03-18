@@ -1,0 +1,4 @@
+tacos,15
+vegas,6
+mexico,6
+food,8

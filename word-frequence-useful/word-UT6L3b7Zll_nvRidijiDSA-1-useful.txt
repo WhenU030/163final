@@ -1,0 +1,4 @@
+pizza,26
+food,7
+don,6
+decided,6

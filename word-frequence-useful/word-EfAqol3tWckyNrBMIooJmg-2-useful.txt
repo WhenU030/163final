@@ -1,0 +1,4 @@
+food,14
+owner,7
+rice,6
+spicy,6

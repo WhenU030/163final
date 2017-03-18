@@ -1,0 +1,5 @@
+pizza,6
+food,30
+service,13
+bad,7
+fries,7

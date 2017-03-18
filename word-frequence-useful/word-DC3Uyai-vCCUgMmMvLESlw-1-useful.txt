@@ -1,0 +1,7 @@
+experience,7
+bartender,9
+pizza,11
+sauce,6
+service,7
+home,7
+time,7

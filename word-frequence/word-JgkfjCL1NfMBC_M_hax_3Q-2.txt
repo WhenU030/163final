@@ -1,0 +1,3 @@
+food,8
+wait,6
+soup,6

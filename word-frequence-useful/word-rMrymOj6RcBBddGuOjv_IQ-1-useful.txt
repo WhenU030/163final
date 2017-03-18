@@ -1,0 +1,6 @@
+worst,6
+arena,14
+venue,7
+seats,7
+people,8
+time,8

@@ -1,0 +1,4 @@
+nail,12
+didn,6
+set,9
+nails,20

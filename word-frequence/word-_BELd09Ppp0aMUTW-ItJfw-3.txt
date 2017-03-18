@@ -1,0 +1,9 @@
+guy,7
+airport,8
+fee,10
+car,21
+drop,7
+cars,6
+service,6
+enterprise,6
+location,13

@@ -1,0 +1,2 @@
+restaurant,6
+sushi,7

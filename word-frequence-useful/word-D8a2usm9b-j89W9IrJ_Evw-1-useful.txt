@@ -1,0 +1,6 @@
+dry,6
+food,8
+thai,7
+chicken,8
+restaurant,6
+sweet,11

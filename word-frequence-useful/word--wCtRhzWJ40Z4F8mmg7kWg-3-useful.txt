@@ -1,0 +1,3 @@
+food,10
+stars,7
+lobster,8

@@ -1,0 +1,4 @@
+lunch,6
+thai,7
+pad,7
+curry,9

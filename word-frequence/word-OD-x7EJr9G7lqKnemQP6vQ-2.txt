@@ -1,0 +1,2 @@
+artist,6
+tattoo,20

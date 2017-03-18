@@ -1,0 +1,2 @@
+love,6
+wings,18

@@ -1,0 +1,3 @@
+told,6
+pizza,12
+food,14

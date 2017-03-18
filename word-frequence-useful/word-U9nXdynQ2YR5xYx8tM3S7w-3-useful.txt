@@ -1,0 +1,4 @@
+food,14
+service,7
+table,7
+server,7

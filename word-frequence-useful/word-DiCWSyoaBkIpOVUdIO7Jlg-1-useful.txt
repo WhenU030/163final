@@ -1,0 +1,5 @@
+fried,7
+food,8
+chicken,10
+rice,6
+taste,6

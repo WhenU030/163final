@@ -1,0 +1,2 @@
+chinese,6
+chicken,7

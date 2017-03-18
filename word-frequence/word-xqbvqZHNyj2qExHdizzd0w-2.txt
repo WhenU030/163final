@@ -1,0 +1,4 @@
+food,14
+kare,6
+rice,7
+fried,6

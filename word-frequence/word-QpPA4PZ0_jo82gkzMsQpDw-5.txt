@@ -1,0 +1,3 @@
+food,13
+service,11
+strip,6

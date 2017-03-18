@@ -1,0 +1,4 @@
+food,8
+waiter,9
+service,9
+restaurant,7

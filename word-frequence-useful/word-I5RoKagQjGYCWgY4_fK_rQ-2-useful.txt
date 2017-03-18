@@ -1,0 +1,2 @@
+sauce,6
+pizza,10

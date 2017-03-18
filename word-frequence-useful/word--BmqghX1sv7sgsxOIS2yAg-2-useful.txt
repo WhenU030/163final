@@ -1,0 +1,4 @@
+cold,9
+food,8
+shiro,6
+ethiopian,6

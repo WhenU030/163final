@@ -1,0 +1,2 @@
+chicken,9
+food,6

@@ -1,0 +1,3 @@
+service,7
+salon,6
+nail,6

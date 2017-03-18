@@ -1,0 +1,5 @@
+rice,7
+steak,6
+sauces,7
+shrimp,7
+fried,7

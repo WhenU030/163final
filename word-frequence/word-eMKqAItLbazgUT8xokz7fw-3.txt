@@ -1,0 +1,7 @@
+burger,6
+wine,8
+food,10
+little,7
+breakfast,9
+star,7
+cooked,6

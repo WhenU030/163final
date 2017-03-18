@@ -1,0 +1,5 @@
+vegas,16
+las,6
+stop,6
+souvenirs,6
+gift,6

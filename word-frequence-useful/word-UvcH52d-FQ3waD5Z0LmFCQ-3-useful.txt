@@ -1,0 +1,4 @@
+ramen,23
+chicken,6
+noodles,6
+strip,6

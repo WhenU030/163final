@@ -1,0 +1,2 @@
+vegas,11
+strip,12

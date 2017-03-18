@@ -1,0 +1,5 @@
+manager,9
+voucher,8
+receipt,8
+store,8
+bag,6

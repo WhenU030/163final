@@ -1,0 +1,4 @@
+movies,6
+theater,10
+movie,10
+seats,6

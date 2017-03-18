@@ -1,0 +1,4 @@
+customer,7
+service,6
+buy,8
+time,7

@@ -1,0 +1,3 @@
+stars,6
+restaurant,6
+italian,7

@@ -1,0 +1,2 @@
+rules,6
+range,24

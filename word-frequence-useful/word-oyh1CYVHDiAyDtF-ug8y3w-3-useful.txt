@@ -1,0 +1,6 @@
+whip,13
+pineapple,12
+dole,17
+ice,8
+cream,7
+nice,6

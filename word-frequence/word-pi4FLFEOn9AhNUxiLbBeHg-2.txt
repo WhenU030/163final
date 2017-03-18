@@ -1,0 +1,4 @@
+rice,6
+poke,27
+ahi,9
+spicy,7

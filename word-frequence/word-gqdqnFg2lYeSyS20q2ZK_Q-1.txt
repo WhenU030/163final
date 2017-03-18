@@ -1,0 +1,2 @@
+strawberry,7
+cake,15

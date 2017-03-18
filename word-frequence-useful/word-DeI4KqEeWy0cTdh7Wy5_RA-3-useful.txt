@@ -1,0 +1,5 @@
+dish,6
+food,9
+chicken,6
+indian,8
+nice,7

@@ -1,0 +1,4 @@
+food,7
+love,8
+sandwich,6
+pho,8

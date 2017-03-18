@@ -1,0 +1,3 @@
+airport,10
+food,9
+breakfast,6

@@ -1,0 +1,4 @@
+food,6
+meat,12
+bad,6
+service,6

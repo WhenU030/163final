@@ -1,0 +1,2 @@
+smash,6
+burger,8

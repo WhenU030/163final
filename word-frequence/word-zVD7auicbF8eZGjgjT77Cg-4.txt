@@ -1,0 +1,6 @@
+issues,7
+home,9
+warranty,6
+bulbs,6
+ideal,7
+electrical,6

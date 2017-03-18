@@ -1,0 +1,4 @@
+botero,6
+salad,6
+meal,9
+dinner,6

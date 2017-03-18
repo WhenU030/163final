@@ -1,0 +1,2 @@
+vegas,6
+service,6

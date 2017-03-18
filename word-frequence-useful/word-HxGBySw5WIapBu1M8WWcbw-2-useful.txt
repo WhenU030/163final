@@ -1,0 +1,3 @@
+carmax,9
+car,16
+brakes,7

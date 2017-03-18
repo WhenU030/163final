@@ -1,0 +1,5 @@
+chicken,8
+rice,6
+healthy,7
+veggies,11
+food,10

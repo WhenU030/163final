@@ -1,0 +1,3 @@
+phone,7
+food,10
+pizza,8

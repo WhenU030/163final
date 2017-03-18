@@ -1,2 +1,0 @@
-service,8
-nachos,8

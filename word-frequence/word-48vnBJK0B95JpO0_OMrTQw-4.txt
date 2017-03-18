@@ -1,5 +1,0 @@
-free,16
-club,9
-line,9
-cover,10
-guys,6

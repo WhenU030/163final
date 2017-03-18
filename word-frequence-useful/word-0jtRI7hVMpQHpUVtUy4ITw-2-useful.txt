@@ -1,8 +1,0 @@
-try,6
-bacon,9
-food,7
-service,7
-breakfast,9
-don,6
-pretty,6
-eggs,10

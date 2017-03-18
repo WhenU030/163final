@@ -1,7 +1,0 @@
-manager,6
-nthe,6
-food,16
-service,7
-french,6
-restaurant,7
-server,11

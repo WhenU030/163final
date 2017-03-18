@@ -1,5 +1,0 @@
-hour,8
-food,7
-service,10
-bar,7
-happy,6

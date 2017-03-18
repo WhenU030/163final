@@ -1,5 +1,0 @@
-free,7
-breakfast,8
-shuttle,7
-strip,7
-nice,7

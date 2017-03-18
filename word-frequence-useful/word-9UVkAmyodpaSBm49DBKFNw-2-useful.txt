@@ -1,3 +1,0 @@
-poke,9
-spicy,6
-bowl,8

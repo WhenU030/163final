@@ -1,3 +1,0 @@
-crust,6
-sauce,7
-pizza,6

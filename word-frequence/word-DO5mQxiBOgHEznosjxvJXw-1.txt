@@ -1,2 +1,0 @@
-food,7
-service,6

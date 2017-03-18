@@ -1,2 +1,0 @@
-smog,8
-check,7

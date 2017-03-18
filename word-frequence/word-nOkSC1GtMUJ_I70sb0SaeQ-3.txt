@@ -1,3 +1,0 @@
-pizza,15
-chicken,7
-wings,9

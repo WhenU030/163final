@@ -1,2 +1,0 @@
-pizza,24
-delivery,6

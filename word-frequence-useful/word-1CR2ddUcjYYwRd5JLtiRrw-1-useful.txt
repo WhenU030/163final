@@ -1,8 +1,0 @@
-nthe,9
-food,6
-rock,14
-hard,12
-service,10
-table,7
-larry,9
-cafe,8

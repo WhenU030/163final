@@ -1,4 +1,0 @@
-nthe,6
-food,15
-raw,12
-cafe,9

@@ -1,3 +1,0 @@
-store,10
-target,15
-location,6

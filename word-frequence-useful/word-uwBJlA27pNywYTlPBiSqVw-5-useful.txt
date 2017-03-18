@@ -1,3 +1,0 @@
-restaurant,7
-overlook,7
-cream,6

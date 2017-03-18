@@ -1,4 +1,0 @@
-pizza,22
-ranch,6
-slice,8
-time,6

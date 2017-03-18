@@ -1,7 +1,0 @@
-manager,6
-cardenas,6
-food,9
-meat,7
-store,6
-people,6
-time,6

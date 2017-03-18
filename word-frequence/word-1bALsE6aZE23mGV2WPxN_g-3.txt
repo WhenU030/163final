@@ -1,2 +1,0 @@
-sandwich,12
-time,6

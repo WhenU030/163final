@@ -1,4 +1,0 @@
-popcorn,16
-black,7
-flavor,7
-flavors,17

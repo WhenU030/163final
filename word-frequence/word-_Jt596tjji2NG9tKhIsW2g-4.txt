@@ -1,5 +1,0 @@
-piercing,11
-pierced,9
-didn,7
-piercings,6
-jewelry,7

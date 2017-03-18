@@ -1,5 +1,0 @@
-dipped,6
-food,8
-didn,6
-chicago,16
-beef,10

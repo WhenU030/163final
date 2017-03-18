@@ -1,6 +1,0 @@
-japanese,9
-waiter,7
-fine,7
-table,8
-sushi,6
-minutes,7

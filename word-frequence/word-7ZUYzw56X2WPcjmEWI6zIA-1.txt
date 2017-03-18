@@ -1,4 +1,0 @@
-car,8
-staff,7
-trader,6
-carts,8

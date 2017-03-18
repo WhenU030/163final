@@ -1,7 +1,0 @@
-chinese,6
-soup,6
-food,16
-don,8
-chicken,10
-rice,7
-fried,6

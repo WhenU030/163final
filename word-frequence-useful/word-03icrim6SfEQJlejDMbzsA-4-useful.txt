@@ -1,4 +1,0 @@
-food,6
-noodles,6
-broth,14
-pho,31

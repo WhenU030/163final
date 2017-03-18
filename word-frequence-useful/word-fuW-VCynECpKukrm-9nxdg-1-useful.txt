@@ -1,4 +1,0 @@
-guy,9
-food,15
-restaurant,6
-time,6

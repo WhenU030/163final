@@ -1,4 +1,0 @@
-chinese,9
-chicken,6
-rice,9
-fried,7

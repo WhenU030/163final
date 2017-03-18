@@ -1,4 +1,0 @@
-help,8
-store,8
-class,6
-sephora,18

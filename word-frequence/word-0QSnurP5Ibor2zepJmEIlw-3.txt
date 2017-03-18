@@ -1,5 +1,0 @@
-taco,8
-authentic,6
-mexican,6
-food,11
-drive,7

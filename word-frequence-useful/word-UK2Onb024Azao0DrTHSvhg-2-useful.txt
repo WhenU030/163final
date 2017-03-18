@@ -1,2 +1,0 @@
-meat,6
-plate,6

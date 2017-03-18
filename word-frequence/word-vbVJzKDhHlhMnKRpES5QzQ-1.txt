@@ -1,3 +1,0 @@
-food,6
-table,13
-walked,6

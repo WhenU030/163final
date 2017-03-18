@@ -1,7 +1,0 @@
-vegas,7
-love,6
-amazing,9
-food,21
-delicious,6
-thai,38
-pad,10

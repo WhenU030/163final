@@ -1,4 +1,0 @@
-try,6
-japanese,6
-ayce,9
-sushi,19

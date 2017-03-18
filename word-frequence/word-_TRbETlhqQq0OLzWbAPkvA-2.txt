@@ -1,4 +1,0 @@
-donuts,15
-doughnuts,6
-dozen,7
-cash,7

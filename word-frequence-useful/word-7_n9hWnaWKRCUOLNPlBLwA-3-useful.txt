@@ -1,5 +1,0 @@
-try,6
-cupcakes,19
-frosting,8
-cupcake,10
-cake,13

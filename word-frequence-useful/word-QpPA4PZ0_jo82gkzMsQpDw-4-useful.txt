@@ -1,4 +1,0 @@
-food,9
-prime,6
-steak,9
-rib,7

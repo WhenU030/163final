@@ -1,3 +1,0 @@
-coffee,8
-definitely,6
-wynn,8

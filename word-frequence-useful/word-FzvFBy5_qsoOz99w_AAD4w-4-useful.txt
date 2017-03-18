@@ -1,3 +1,0 @@
-thai,6
-pho,14
-time,7

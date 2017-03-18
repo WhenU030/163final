@@ -1,5 +1,0 @@
-pizza,45
-sauce,8
-cheese,9
-little,6
-toppings,8

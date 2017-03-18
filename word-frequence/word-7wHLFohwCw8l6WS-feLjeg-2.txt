@@ -1,3 +1,0 @@
-cavier,7
-food,7
-special,7

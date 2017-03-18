@@ -1,5 +1,0 @@
-smoothie,8
-disappointed,6
-didn,6
-try,8
-juice,9

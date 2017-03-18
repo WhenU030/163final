@@ -1,7 +1,0 @@
-beers,20
-hop,7
-don,6
-pretty,7
-bar,8
-beer,16
-tip,6

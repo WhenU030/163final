@@ -1,5 +1,0 @@
-customer,6
-elite,7
-don,6
-stuff,7
-delivery,7

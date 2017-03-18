@@ -1,4 +1,0 @@
-wing,7
-bww,7
-boneless,9
-wings,23

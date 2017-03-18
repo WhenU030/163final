@@ -1,3 +1,0 @@
-list,8
-free,7
-time,7

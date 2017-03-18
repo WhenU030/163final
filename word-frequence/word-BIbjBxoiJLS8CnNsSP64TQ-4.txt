@@ -1,3 +1,0 @@
-food,12
-airport,15
-burrito,12

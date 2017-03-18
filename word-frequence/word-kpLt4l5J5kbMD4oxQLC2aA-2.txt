@@ -1,4 +1,0 @@
-food,13
-thai,13
-chicken,9
-pad,7

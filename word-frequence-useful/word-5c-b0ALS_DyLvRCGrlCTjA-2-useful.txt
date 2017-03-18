@@ -1,2 +1,0 @@
-bagels,10
-location,6

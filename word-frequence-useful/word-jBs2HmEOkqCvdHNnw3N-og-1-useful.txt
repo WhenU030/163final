@@ -1,2 +1,0 @@
-food,9
-burger,6

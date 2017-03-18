@@ -1,5 +1,0 @@
-latte,11
-coffee,18
-wasn,7
-drink,6
-nice,7

@@ -1,3 +1,0 @@
-bar,9
-steak,6
-salad,10

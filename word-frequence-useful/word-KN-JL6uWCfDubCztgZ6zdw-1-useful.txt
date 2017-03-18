@@ -1,2 +1,0 @@
-shrimp,6
-sandwich,7

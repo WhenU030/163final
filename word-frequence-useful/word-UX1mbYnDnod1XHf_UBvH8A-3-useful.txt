@@ -1,3 +1,0 @@
-cut,10
-stylist,6
-hair,14

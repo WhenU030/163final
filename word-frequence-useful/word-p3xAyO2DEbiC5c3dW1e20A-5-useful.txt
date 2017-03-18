@@ -1,5 +1,0 @@
-vegas,7
-love,10
-ulta,11
-stylist,6
-hair,13

@@ -1,4 +1,0 @@
-chicago,9
-beef,8
-hot,11
-dog,14

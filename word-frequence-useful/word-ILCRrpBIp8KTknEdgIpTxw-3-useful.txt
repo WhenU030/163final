@@ -1,5 +1,0 @@
-nail,11
-salon,8
-creative,8
-nails,15
-techs,8

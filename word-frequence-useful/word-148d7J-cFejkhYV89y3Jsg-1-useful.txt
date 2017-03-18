@@ -1,4 +1,0 @@
-ride,19
-gondola,8
-line,6
-time,7

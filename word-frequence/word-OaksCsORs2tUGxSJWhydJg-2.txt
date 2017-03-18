@@ -1,2 +1,0 @@
-tea,7
-waffle,8

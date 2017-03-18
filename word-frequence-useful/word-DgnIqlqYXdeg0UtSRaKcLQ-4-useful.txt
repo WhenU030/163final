@@ -1,2 +1,0 @@
-lamb,6
-greek,14

@@ -1,3 +1,0 @@
-salon,8
-hair,9
-time,7

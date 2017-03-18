@@ -1,4 +1,0 @@
-food,12
-nthe,8
-airport,10
-service,7

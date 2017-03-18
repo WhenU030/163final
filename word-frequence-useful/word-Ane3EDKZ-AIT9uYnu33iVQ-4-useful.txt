@@ -1,3 +1,0 @@
-tire,10
-service,10
-car,7

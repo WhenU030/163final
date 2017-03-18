@@ -1,2 +1,0 @@
-menu,7
-vegas,6

@@ -1,3 +1,0 @@
-food,14
-filipino,7
-family,6

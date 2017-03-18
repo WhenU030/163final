@@ -1,2 +1,0 @@
-pizza,32
-pizzas,11

@@ -1,5 +1,0 @@
-latte,22
-coffee,23
-drink,6
-drinks,6
-soy,8

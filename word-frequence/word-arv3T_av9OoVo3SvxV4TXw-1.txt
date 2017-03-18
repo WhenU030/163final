@@ -1,3 +1,0 @@
-food,6
-son,6
-time,6

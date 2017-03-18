@@ -1,4 +1,0 @@
-told,7
-lounge,8
-food,7
-service,6

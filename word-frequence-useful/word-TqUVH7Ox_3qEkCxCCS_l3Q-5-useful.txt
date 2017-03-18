@@ -1,5 +1,0 @@
-vegas,6
-prime,15
-steak,10
-rib,16
-time,6

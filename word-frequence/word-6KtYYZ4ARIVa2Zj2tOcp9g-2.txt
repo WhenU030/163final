@@ -1,2 +1,0 @@
-bar,6
-drinks,7

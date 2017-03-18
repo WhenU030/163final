@@ -1,3 +1,0 @@
-pizza,17
-wings,8
-delivery,12

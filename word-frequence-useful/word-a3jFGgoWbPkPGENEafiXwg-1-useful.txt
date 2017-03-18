@@ -1,2 +1,0 @@
-burger,8
-cheese,6

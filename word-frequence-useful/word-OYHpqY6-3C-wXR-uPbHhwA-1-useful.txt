@@ -1,5 +1,0 @@
-salad,6
-food,10
-crepe,6
-eggs,7
-cake,16

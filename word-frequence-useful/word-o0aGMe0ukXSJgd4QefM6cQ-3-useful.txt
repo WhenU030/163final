@@ -1,4 +1,0 @@
-lobster,6
-red,6
-service,6
-crab,11

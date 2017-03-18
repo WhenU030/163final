@@ -1,3 +1,0 @@
-dogs,6
-hot,9
-dog,10

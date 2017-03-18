@@ -1,3 +1,0 @@
-owner,6
-sushi,13
-eat,8

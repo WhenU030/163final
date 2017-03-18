@@ -1,3 +1,0 @@
-food,6
-strip,8
-breakfast,10

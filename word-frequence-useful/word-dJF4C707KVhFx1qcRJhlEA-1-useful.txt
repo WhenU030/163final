@@ -1,2 +1,0 @@
-food,16
-burrito,7

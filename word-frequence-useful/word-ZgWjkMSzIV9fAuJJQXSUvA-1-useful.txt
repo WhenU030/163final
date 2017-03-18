@@ -1,3 +1,0 @@
-food,10
-greek,9
-time,6

@@ -1,8 +1,0 @@
-manager,6
-amazing,8
-waiter,6
-service,15
-outback,15
-restaurant,6
-food,7
-time,11

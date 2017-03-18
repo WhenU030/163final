@@ -1,4 +1,0 @@
-bakery,6
-white,6
-cake,17
-cream,7

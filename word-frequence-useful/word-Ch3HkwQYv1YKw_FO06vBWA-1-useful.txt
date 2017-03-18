@@ -1,4 +1,0 @@
-changs,6
-food,12
-service,8
-minutes,6

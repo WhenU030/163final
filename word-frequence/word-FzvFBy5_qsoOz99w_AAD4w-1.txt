@@ -1,4 +1,0 @@
-egg,6
-food,7
-pho,14
-time,7

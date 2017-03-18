@@ -1,3 +1,0 @@
-guy,6
-sandwich,8
-food,10

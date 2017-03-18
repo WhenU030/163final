@@ -1,3 +1,0 @@
-calzone,13
-soda,8
-cheese,6

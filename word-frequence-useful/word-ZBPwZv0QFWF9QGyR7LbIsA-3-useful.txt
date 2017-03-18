@@ -1,3 +1,0 @@
-dish,7
-saigon,8
-pho,27

@@ -1,3 +1,0 @@
-wash,10
-car,17
-inside,7

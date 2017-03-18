@@ -1,2 +1,0 @@
-drive,7
-burgers,6

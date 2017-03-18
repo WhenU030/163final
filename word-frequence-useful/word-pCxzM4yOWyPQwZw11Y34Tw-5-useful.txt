@@ -1,2 +1,0 @@
-food,11
-breakfast,10

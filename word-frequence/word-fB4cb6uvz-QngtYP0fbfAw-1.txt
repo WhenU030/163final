@@ -1,3 +1,0 @@
-food,6
-sushi,9
-eat,10

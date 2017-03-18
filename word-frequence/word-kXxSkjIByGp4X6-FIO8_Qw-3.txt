@@ -1,3 +1,0 @@
-food,6
-diner,13
-breakfast,6

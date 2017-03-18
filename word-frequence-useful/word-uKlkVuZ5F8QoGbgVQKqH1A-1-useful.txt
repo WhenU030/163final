@@ -1,3 +1,0 @@
-food,6
-friend,7
-bar,7

@@ -1,2 +1,0 @@
-internet,9
-service,8

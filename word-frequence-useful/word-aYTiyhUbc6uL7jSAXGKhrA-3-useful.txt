@@ -1,2 +1,0 @@
-flavors,6
-gelato,17

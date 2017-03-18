@@ -1,5 +1,0 @@
-told,6
-piercing,7
-doing,6
-jewelry,10
-time,9

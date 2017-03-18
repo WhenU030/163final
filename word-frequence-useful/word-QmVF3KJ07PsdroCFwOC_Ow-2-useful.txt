@@ -1,6 +1,0 @@
-curry,8
-green,6
-sauce,6
-lunch,6
-thai,12
-pad,7

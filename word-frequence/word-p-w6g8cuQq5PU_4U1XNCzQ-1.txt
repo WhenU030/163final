@@ -1,5 +1,0 @@
-food,14
-service,6
-burrito,10
-restaurant,7
-beans,6

@@ -1,2 +1,0 @@
-atomic,9
-atm,6

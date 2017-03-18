@@ -1,4 +1,0 @@
-bag,7
-store,18
-people,7
-sales,10

@@ -1,7 +1,0 @@
-nthe,8
-food,6
-gravy,9
-chicken,15
-fried,8
-turkey,7
-fries,13

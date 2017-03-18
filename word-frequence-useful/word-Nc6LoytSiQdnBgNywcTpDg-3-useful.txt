@@ -1,3 +1,0 @@
-dress,10
-tailor,6
-time,8

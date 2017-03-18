@@ -1,3 +1,0 @@
-appointment,10
-hair,12
-david,6

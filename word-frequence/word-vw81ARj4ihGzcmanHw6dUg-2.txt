@@ -1,3 +1,0 @@
-drinks,8
-music,10
-cover,6

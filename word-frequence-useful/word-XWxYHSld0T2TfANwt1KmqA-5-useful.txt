@@ -1,5 +1,0 @@
-food,10
-delicious,7
-service,9
-breakfast,10
-cafe,7

@@ -1,2 +1,0 @@
-players,7
-played,6

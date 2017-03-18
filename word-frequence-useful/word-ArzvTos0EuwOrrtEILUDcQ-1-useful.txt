@@ -1,9 +1,0 @@
-change,9
-car,16
-service,9
-exhibit,10
-hamid,9
-review,6
-battery,6
-oil,12
-business,6

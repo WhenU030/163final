@@ -1,4 +1,0 @@
-people,11
-terrible,6
-stolen,7
-gravady,6

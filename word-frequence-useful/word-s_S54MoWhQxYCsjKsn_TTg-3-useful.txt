@@ -1,2 +1,0 @@
-seats,9
-floor,6

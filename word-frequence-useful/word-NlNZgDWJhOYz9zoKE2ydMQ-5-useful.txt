@@ -1,8 +1,0 @@
-venice,9
-vegas,9
-ride,7
-shoppes,6
-shopping,9
-grand,6
-gondola,6
-canal,10

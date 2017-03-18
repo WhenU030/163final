@@ -1,7 +1,0 @@
-total,6
-call,6
-phone,10
-beers,10
-wine,20
-selection,7
-beer,8

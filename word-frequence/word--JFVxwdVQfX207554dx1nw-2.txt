@@ -1,5 +1,0 @@
-salad,6
-food,12
-chicken,17
-location,9
-teriyaki,13

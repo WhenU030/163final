@@ -1,5 +1,0 @@
-sicilian,6
-crust,7
-pizza,28
-york,12
-slice,8

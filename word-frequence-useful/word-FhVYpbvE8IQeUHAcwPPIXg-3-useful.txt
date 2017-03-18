@@ -1,4 +1,0 @@
-salad,6
-pizza,7
-food,10
-didn,8

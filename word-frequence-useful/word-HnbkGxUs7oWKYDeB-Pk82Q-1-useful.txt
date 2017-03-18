@@ -1,3 +1,0 @@
-coffee,9
-service,7
-don,6

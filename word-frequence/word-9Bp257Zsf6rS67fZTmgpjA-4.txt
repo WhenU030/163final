@@ -1,4 +1,0 @@
-spray,7
-groupon,6
-bed,6
-tan,10

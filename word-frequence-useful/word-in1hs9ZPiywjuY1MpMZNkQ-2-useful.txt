@@ -1,4 +1,0 @@
-bar,7
-eye,6
-casino,6
-middle,6

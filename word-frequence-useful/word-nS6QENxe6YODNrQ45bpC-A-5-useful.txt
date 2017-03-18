@@ -1,5 +1,0 @@
-love,6
-pizza,13
-food,15
-service,6
-delivery,6

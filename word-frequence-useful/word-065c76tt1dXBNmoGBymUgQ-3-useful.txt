@@ -1,5 +1,0 @@
-hot,13
-dogs,8
-dog,19
-beef,6
-cheffini,6

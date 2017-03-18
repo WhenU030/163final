@@ -1,2 +1,0 @@
-burrito,9
-sushi,6

@@ -1,4 +1,0 @@
-pizza,17
-wings,6
-server,6
-pie,7

@@ -1,7 +1,0 @@
-guy,6
-told,7
-piercing,12
-piercings,8
-don,8
-shop,16
-sister,6

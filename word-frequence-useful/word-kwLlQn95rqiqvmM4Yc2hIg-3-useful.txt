@@ -1,3 +1,0 @@
-tacos,7
-taco,7
-roberto,14

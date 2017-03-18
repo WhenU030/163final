@@ -1,2 +1,0 @@
-visit,6
-time,7

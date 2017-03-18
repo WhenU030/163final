@@ -1,3 +1,0 @@
-coffee,30
-shops,6
-truffles,9

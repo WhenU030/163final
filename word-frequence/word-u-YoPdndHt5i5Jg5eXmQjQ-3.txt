@@ -1,8 +1,0 @@
-wait,7
-car,23
-window,7
-wash,13
-interior,7
-job,9
-inside,6
-time,6

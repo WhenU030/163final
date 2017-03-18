@@ -1,3 +1,0 @@
-food,7
-don,7
-bar,7

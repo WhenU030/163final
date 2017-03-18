@@ -1,8 +1,0 @@
-titanic,10
-stuff,6
-exhibit,18
-pay,6
-people,6
-seeing,6
-artifacts,7
-ship,9

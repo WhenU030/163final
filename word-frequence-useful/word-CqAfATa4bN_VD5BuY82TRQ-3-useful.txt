@@ -1,4 +1,0 @@
-people,9
-nthe,6
-stage,9
-hypnotized,6

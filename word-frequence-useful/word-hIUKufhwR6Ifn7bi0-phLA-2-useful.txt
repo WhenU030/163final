@@ -1,5 +1,0 @@
-sandwich,15
-food,12
-service,6
-don,6
-time,7

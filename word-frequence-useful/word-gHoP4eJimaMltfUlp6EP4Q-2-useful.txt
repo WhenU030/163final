@@ -1,4 +1,0 @@
-tea,6
-salad,7
-didn,7
-location,6

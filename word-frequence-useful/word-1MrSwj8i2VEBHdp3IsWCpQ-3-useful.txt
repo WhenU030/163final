@@ -1,3 +1,0 @@
-tacos,10
-shrimp,6
-taco,6

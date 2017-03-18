@@ -1,2 +1,0 @@
-strawberry,6
-cake,13

@@ -1,6 +1,0 @@
-pancakes,12
-dry,6
-blueberry,7
-food,11
-service,10
-eggs,8

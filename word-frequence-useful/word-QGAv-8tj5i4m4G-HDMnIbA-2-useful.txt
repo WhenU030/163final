@@ -1,5 +1,0 @@
-food,16
-didn,7
-service,11
-seated,6
-cream,6

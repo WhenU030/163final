@@ -1,3 +1,0 @@
-coffee,16
-mocha,6
-walked,6

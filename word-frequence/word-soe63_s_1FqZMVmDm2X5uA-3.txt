@@ -1,3 +1,0 @@
-internet,9
-service,11
-cox,7

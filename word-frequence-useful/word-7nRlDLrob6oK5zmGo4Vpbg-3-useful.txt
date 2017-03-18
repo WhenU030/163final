@@ -1,9 +1,0 @@
-pretty,6
-chops,6
-food,20
-didn,7
-waitress,6
-service,9
-breakfast,8
-server,7
-nice,6

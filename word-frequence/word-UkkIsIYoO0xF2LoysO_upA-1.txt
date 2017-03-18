@@ -1,6 +1,0 @@
-manager,6
-food,9
-check,7
-dinner,6
-minutes,6
-time,11

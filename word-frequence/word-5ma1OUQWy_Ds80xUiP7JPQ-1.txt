@@ -1,3 +1,0 @@
-food,6
-burger,8
-fries,6

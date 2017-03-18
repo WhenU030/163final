@@ -1,3 +1,0 @@
-food,7
-staff,6
-bar,6

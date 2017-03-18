@@ -1,2 +1,0 @@
-massage,8
-time,6

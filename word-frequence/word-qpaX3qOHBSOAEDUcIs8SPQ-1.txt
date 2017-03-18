@@ -1,5 +1,0 @@
-canes,7
-sauce,6
-don,6
-chicken,10
-money,6

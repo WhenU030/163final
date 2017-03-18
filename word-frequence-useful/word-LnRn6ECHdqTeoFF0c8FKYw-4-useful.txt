@@ -1,3 +1,0 @@
-lunch,10
-chicken,6
-meal,6

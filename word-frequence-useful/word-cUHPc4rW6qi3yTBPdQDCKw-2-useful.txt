@@ -1,5 +1,0 @@
-chinese,7
-milk,6
-pancake,6
-food,6
-breakfast,7

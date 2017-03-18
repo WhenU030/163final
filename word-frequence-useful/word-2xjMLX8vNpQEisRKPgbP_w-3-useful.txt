@@ -1,4 +1,0 @@
-cookies,6
-cakes,6
-leopold,7
-cake,30

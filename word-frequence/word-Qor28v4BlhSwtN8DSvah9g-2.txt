@@ -1,3 +1,0 @@
-sign,6
-mexican,8
-food,16

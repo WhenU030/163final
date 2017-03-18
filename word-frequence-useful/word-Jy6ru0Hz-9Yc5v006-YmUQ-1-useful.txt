@@ -1,3 +1,0 @@
-food,7
-juice,10
-drink,6

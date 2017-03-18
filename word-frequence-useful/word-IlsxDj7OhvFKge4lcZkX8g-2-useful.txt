@@ -1,3 +1,0 @@
-zombies,12
-people,6
-zombie,6

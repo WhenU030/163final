@@ -1,4 +1,0 @@
-food,16
-indian,6
-dinner,8
-buffet,9

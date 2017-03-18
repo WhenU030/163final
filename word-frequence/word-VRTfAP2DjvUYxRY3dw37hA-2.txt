@@ -1,7 +1,0 @@
-told,6
-massage,12
-spa,16
-salon,8
-day,8
-nice,7
-time,7

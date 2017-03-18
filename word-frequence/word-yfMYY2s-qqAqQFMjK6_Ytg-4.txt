@@ -1,2 +1,0 @@
-eyebrows,17
-threading,7

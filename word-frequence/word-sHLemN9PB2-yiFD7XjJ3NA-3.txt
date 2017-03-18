@@ -1,2 +1,0 @@
-hair,15
-color,8

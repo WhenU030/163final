@@ -1,3 +1,0 @@
-tacos,22
-taco,21
-meat,7

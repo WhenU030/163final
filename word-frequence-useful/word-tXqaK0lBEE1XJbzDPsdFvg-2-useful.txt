@@ -1,2 +1,0 @@
-burger,9
-chicken,9

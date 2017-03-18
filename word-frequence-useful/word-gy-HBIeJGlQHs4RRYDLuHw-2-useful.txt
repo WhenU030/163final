@@ -1,2 +1,0 @@
-parking,7
-center,8

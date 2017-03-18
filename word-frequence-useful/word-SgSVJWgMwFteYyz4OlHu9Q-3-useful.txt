@@ -1,2 +1,0 @@
-pizza,21
-cheese,9

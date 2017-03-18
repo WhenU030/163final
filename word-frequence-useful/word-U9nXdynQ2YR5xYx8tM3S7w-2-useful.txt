@@ -1,4 +1,0 @@
-food,9
-service,8
-location,6
-time,7

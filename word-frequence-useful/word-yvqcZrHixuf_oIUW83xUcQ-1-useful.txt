@@ -1,8 +1,0 @@
-hour,6
-salsa,6
-food,27
-service,13
-chicken,12
-chips,8
-restaurant,6
-happy,6

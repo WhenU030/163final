@@ -1,3 +1,0 @@
-food,8
-wasn,6
-service,7

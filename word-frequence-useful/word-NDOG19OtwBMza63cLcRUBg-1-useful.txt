@@ -1,6 +1,0 @@
-manager,9
-vegas,6
-told,14
-ride,11
-groupon,7
-rio,7

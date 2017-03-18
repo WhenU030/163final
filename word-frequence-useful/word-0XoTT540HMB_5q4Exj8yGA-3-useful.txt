@@ -1,3 +1,0 @@
-tea,7
-seasons,7
-pool,6

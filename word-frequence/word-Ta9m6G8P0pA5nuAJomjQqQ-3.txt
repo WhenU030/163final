@@ -1,2 +1,0 @@
-service,6
-door,7

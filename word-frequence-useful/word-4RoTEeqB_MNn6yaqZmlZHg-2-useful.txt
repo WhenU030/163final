@@ -1,5 +1,0 @@
-popcorn,6
-movie,10
-theater,7
-seats,9
-time,9

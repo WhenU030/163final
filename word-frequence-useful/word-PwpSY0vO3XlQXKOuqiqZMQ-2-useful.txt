@@ -1,6 +1,0 @@
-vegas,9
-pizza,9
-course,6
-food,11
-meal,8
-table,7

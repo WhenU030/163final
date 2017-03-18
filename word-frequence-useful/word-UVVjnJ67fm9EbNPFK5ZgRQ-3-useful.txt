@@ -1,5 +1,0 @@
-burger,10
-lounge,6
-food,6
-bar,7
-fries,6

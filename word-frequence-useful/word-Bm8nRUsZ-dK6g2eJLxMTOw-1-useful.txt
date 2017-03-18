@@ -1,4 +1,0 @@
-roll,6
-rice,11
-nigiri,6
-sushi,19

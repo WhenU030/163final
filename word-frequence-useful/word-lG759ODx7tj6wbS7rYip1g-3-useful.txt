@@ -1,4 +1,0 @@
-food,11
-lunch,7
-thai,10
-curry,7

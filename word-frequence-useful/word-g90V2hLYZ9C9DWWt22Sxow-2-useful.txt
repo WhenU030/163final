@@ -1,4 +1,0 @@
-care,6
-dogs,6
-dog,11
-pet,6

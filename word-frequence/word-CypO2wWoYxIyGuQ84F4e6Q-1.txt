@@ -1,4 +1,0 @@
-bow,10
-times,6
-set,7
-time,11

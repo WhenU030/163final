@@ -1,8 +1,0 @@
-soup,10
-food,14
-didn,6
-service,10
-don,6
-bad,7
-dumplings,11
-time,8

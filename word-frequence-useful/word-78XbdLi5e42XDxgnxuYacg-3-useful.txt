@@ -1,4 +1,0 @@
-sake,6
-little,6
-hibachi,8
-cooked,15

@@ -1,2 +1,0 @@
-pizza,25
-york,8

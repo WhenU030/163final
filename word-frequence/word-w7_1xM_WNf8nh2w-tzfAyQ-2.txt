@@ -1,3 +1,0 @@
-sauce,6
-food,7
-chicken,8

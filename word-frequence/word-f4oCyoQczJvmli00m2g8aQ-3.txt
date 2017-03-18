@@ -1,5 +1,0 @@
-appointment,12
-wait,13
-office,10
-doctor,11
-time,12

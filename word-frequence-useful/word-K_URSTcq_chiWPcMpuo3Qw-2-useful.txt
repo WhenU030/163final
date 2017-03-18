@@ -1,3 +1,0 @@
-menu,10
-sushi,11
-eat,10

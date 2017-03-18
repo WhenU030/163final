@@ -1,2 +1,0 @@
-vegan,6
-food,9

@@ -1,3 +1,0 @@
-crust,6
-pizza,15
-rosati,8

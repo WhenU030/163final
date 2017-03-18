@@ -1,4 +1,0 @@
-rental,15
-national,12
-cars,6
-car,23

@@ -1,2 +1,0 @@
-chicken,13
-sauce,7

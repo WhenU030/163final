@@ -1,5 +1,0 @@
-nthe,6
-quinta,7
-hotel,7
-breakfast,6
-stay,9

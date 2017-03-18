@@ -1,4 +1,0 @@
-nthe,6
-salad,8
-pizza,35
-grimaldi,6

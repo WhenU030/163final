@@ -1,3 +1,0 @@
-coffee,7
-soy,8
-latte,16

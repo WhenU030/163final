@@ -1,4 +1,0 @@
-vet,7
-hospital,6
-puppy,8
-nice,7

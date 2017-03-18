@@ -1,3 +1,0 @@
-chicken,16
-teriyaki,10
-food,11

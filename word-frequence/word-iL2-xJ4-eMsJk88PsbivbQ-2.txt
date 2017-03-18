@@ -1,5 +1,0 @@
-pizza,19
-sauce,6
-service,6
-wings,6
-delivery,7

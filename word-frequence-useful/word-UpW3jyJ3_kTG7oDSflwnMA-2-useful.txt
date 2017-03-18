@@ -1,3 +1,0 @@
-food,6
-curry,8
-thai,10

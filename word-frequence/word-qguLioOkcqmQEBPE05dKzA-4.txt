@@ -1,3 +1,0 @@
-car,17
-service,9
-audi,8

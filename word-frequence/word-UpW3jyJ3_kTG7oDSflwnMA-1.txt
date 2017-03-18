@@ -1,8 +1,0 @@
-waitress,6
-food,17
-service,11
-thai,9
-don,6
-rice,9
-restaurant,7
-time,6

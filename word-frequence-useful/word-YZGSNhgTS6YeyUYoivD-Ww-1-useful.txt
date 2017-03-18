@@ -1,5 +1,0 @@
-bartender,7
-food,6
-service,7
-bar,7
-beer,7

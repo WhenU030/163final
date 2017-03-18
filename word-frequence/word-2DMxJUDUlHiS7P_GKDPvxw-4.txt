@@ -1,4 +1,0 @@
-change,9
-car,13
-oil,13
-time,6

@@ -1,5 +1,0 @@
-bagels,7
-coffee,7
-smear,6
-love,6
-bagel,16

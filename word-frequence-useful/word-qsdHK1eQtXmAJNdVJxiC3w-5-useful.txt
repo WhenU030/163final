@@ -1,4 +1,0 @@
-chinese,12
-chicken,8
-food,14
-soup,7

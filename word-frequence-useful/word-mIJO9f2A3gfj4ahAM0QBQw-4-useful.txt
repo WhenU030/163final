@@ -1,4 +1,0 @@
-didn,7
-stars,6
-fixture,6
-light,8

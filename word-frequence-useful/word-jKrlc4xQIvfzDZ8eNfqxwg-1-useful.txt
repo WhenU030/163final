@@ -1,4 +1,0 @@
-bar,6
-hostess,6
-service,6
-table,9

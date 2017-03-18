@@ -1,5 +1,0 @@
-salo,10
-rice,6
-food,14
-filipino,19
-time,6

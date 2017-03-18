@@ -1,4 +1,0 @@
-nthe,8
-food,9
-cart,7
-happy,6

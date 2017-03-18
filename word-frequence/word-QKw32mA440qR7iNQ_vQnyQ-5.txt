@@ -1,5 +1,0 @@
-chicken,8
-airport,13
-food,12
-rice,10
-pei,6

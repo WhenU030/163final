@@ -1,2 +1,0 @@
-coffee,7
-sandwich,7

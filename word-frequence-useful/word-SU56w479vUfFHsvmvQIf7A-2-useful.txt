@@ -1,2 +1,0 @@
-food,8
-indian,6

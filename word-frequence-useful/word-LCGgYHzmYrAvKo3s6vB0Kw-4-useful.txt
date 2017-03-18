@@ -1,2 +1,0 @@
-walmart,8
-department,7

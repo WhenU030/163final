@@ -1,3 +1,0 @@
-mahi,6
-food,20
-aloha,6

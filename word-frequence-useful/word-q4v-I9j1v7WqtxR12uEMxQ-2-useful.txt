@@ -1,4 +1,0 @@
-sandwich,13
-sandwiches,7
-don,8
-time,7

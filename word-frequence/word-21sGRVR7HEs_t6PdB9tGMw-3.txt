@@ -1,6 +1,0 @@
-try,6
-pizza,24
-food,11
-wings,7
-delivery,6
-time,8

@@ -1,4 +1,0 @@
-ramen,23
-vegetarian,8
-food,7
-husband,7

@@ -1,3 +1,0 @@
-tinting,9
-windows,8
-car,8

@@ -1,6 +1,0 @@
-told,8
-owner,7
-dogs,7
-store,18
-dog,18
-grooming,7

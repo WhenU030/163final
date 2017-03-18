@@ -1,7 +1,0 @@
-sun,10
-change,8
-car,14
-auto,11
-oil,17
-service,9
-told,6

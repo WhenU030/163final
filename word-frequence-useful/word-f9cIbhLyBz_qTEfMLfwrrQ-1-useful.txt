@@ -1,4 +1,0 @@
-sauce,6
-food,6
-shrimp,13
-curry,6

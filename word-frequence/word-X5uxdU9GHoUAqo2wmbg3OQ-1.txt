@@ -1,2 +1,0 @@
-food,13
-restaurant,6

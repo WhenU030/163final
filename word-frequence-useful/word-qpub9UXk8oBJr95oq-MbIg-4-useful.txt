@@ -1,2 +1,0 @@
-sushi,10
-roll,6

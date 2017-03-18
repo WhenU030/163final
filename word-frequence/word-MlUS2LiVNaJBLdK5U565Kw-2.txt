@@ -1,3 +1,0 @@
-apartment,8
-movers,6
-moved,8

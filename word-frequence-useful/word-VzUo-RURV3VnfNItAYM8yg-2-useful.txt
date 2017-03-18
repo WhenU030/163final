@@ -1,6 +1,0 @@
-milk,15
-tea,18
-didn,6
-boba,16
-drink,9
-taste,8

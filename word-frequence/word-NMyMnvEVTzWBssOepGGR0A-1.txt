@@ -1,2 +1,0 @@
-products,9
-store,10

@@ -1,4 +1,0 @@
-haircut,6
-hair,7
-cut,9
-barber,10

@@ -1,3 +1,0 @@
-smoothie,7
-food,9
-chicken,6

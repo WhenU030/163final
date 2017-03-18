@@ -1,3 +1,0 @@
-location,6
-food,6
-chili,6

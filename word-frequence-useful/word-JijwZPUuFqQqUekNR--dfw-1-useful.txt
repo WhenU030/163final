@@ -1,2 +1,0 @@
-waiter,6
-dinner,7

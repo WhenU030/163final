@@ -1,3 +1,0 @@
-pork,8
-bao,7
-chicken,6

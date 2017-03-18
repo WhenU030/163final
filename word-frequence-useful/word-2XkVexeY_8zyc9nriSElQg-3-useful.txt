@@ -1,3 +1,0 @@
-tacos,16
-meat,6
-taco,16

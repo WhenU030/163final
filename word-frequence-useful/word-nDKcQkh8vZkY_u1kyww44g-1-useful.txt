@@ -1,3 +1,0 @@
-food,10
-service,6
-restaurant,6

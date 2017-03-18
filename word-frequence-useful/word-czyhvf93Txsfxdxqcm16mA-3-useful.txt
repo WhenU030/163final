@@ -1,6 +1,0 @@
-chicken,14
-chinese,8
-orange,7
-food,10
-lunch,8
-fried,6

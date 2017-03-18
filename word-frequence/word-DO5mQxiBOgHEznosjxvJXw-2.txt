@@ -1,3 +1,0 @@
-waited,9
-food,9
-minutes,6

@@ -1,2 +1,0 @@
-breakfast,6
-diner,7

@@ -1,2 +1,0 @@
-pizza,18
-garlic,7

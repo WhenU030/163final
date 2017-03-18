@@ -1,4 +1,0 @@
-tip,11
-foot,6
-massage,11
-time,6

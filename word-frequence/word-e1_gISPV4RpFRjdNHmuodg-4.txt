@@ -1,5 +1,0 @@
-vegas,7
-drinks,7
-hour,6
-food,8
-happy,6

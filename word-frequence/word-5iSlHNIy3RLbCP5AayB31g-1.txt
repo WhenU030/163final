@@ -1,9 +1,0 @@
-manager,11
-experience,6
-food,22
-didn,8
-waitress,7
-service,6
-restaurant,6
-server,7
-time,11

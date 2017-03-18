@@ -1,5 +1,0 @@
-pizza,23
-cold,7
-food,9
-don,6
-eat,6

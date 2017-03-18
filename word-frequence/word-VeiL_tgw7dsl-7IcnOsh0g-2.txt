@@ -1,5 +1,0 @@
-tempura,6
-rice,8
-sushi,17
-eel,10
-roll,7

@@ -1,2 +1,0 @@
-sandwich,9
-lobster,7

@@ -1,3 +1,0 @@
-food,10
-thai,8
-time,7

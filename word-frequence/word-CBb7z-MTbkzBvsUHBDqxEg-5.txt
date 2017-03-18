@@ -1,2 +1,0 @@
-steak,10
-lobster,9

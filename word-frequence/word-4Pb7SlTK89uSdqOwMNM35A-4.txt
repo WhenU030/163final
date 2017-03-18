@@ -1,5 +1,0 @@
-tacos,12
-food,17
-waitress,8
-service,6
-chicken,7

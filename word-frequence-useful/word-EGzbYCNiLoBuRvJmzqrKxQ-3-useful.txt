@@ -1,3 +1,0 @@
-dogs,6
-dog,9
-home,10

@@ -1,3 +1,0 @@
-service,9
-view,6
-star,7

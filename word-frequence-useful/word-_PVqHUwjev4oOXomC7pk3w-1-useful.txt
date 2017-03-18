@@ -1,5 +1,0 @@
-kids,7
-shark,10
-aquarium,21
-money,10
-minutes,6

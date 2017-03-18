@@ -1,6 +1,0 @@
-tires,30
-wait,6
-car,9
-service,10
-tire,22
-discount,7

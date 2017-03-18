@@ -1,4 +1,0 @@
-food,7
-hour,6
-happy,6
-pizza,19

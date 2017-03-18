@@ -1,2 +1,0 @@
-pudding,7
-cake,9

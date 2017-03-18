@@ -1,5 +1,0 @@
-wings,6
-didn,8
-pizza,15
-food,6
-delivery,12

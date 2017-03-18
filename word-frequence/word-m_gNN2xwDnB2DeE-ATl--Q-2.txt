@@ -1,8 +1,0 @@
-guy,6
-told,7
-car,29
-oil,10
-salesman,7
-service,14
-dealership,7
-warranty,6

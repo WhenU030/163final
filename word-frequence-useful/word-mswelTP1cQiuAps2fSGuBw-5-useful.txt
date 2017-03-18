@@ -1,3 +1,0 @@
-farmer,9
-food,7
-service,7

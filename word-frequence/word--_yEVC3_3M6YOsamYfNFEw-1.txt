@@ -1,2 +1,0 @@
-delivery,6
-time,10

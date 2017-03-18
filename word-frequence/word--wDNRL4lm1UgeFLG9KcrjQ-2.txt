@@ -1,5 +1,0 @@
-water,6
-food,7
-salt,6
-sushi,21
-rolls,6

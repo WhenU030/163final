@@ -1,2 +1,0 @@
-food,6
-breakfast,9

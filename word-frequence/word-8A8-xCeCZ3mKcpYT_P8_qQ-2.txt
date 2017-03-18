@@ -1,3 +1,0 @@
-stylist,7
-hair,28
-time,6

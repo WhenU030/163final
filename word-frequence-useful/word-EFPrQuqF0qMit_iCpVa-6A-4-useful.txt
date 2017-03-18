@@ -1,4 +1,0 @@
-dog,7
-staff,8
-nice,8
-time,7

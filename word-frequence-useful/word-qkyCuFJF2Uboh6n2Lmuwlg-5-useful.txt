@@ -1,9 +1,0 @@
-lee,12
-hours,6
-love,10
-sandwich,12
-food,6
-delicious,6
-little,6
-sandwiches,11
-coffee,19

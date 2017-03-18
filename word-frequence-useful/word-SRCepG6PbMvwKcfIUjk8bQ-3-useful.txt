@@ -1,4 +1,0 @@
-carne,7
-cilantro,6
-tacos,10
-taco,6

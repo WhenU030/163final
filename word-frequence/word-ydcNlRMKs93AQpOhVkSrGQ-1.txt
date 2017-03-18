@@ -1,6 +1,0 @@
-try,6
-burger,9
-truck,8
-food,10
-burgers,7
-fries,7

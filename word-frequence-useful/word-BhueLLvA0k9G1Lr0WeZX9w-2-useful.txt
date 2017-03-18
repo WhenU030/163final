@@ -1,8 +1,0 @@
-try,6
-salad,15
-soup,12
-sandwich,11
-food,6
-lunch,6
-size,6
-line,13

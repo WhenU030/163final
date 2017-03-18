@@ -1,4 +1,0 @@
-pancakes,10
-food,11
-breakfast,8
-eggs,6

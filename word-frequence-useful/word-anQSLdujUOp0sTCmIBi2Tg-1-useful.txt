@@ -1,4 +1,0 @@
-manager,7
-food,13
-bland,7
-service,8

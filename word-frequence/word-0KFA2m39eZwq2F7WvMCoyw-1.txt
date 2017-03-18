@@ -1,4 +1,0 @@
-drinks,8
-bartender,7
-waitress,7
-bar,16

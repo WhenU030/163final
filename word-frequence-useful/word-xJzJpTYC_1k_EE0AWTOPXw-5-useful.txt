@@ -1,3 +1,0 @@
-movie,22
-theater,14
-seats,6

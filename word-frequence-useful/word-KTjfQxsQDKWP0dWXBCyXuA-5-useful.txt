@@ -1,5 +1,0 @@
-food,8
-lunch,7
-service,6
-bbq,7
-time,7

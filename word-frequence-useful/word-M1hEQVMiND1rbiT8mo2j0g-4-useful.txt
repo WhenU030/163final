@@ -1,2 +1,0 @@
-pizza,7
-strip,7

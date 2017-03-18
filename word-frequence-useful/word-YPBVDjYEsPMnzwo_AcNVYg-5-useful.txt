@@ -1,6 +1,0 @@
-fixed,7
-service,7
-screen,16
-fix,8
-iphone,9
-phone,17

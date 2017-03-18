@@ -1,3 +1,0 @@
-coffee,11
-food,10
-time,7

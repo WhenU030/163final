@@ -1,5 +1,0 @@
-james,7
-ombr,8
-review,7
-cut,9
-hair,32

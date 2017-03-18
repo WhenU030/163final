@@ -1,3 +1,0 @@
-chicken,9
-orange,6
-food,7

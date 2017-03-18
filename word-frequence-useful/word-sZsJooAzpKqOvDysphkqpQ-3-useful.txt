@@ -1,3 +1,0 @@
-pizza,28
-garlic,8
-slice,8

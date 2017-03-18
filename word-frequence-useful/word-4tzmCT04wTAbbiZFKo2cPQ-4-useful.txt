@@ -1,2 +1,0 @@
-tire,6
-tires,8

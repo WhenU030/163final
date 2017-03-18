@@ -1,3 +1,0 @@
-ice,7
-gelato,19
-scoop,6

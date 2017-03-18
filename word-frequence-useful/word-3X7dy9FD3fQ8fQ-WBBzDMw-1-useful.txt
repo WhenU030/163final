@@ -1,3 +1,0 @@
-food,6
-blt,7
-beer,7

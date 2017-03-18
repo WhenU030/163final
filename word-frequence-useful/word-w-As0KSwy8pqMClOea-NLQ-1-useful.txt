@@ -1,7 +1,0 @@
-artifacts,8
-parking,8
-money,8
-mob,10
-people,8
-museum,26
-lot,6

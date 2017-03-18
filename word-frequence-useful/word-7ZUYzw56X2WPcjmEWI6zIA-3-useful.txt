@@ -1,4 +1,0 @@
-grocery,6
-pretty,6
-joe,9
-trader,10

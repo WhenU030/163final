@@ -1,3 +1,0 @@
-vegas,6
-food,11
-people,7

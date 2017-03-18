@@ -1,5 +1,0 @@
-chinese,7
-food,12
-chicken,15
-rice,6
-fried,6

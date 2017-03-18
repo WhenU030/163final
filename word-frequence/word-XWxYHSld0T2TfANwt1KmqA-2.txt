@@ -1,2 +1,0 @@
-food,17
-service,9

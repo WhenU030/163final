@@ -1,2 +1,0 @@
-furniture,10
-ashley,7

@@ -1,4 +1,0 @@
-little,6
-chicken,6
-hummus,6
-pita,19

@@ -1,4 +1,0 @@
-paris,8
-croissant,7
-pizza,10
-breakfast,16

@@ -1,5 +1,0 @@
-pizza,30
-sauce,6
-food,6
-delivery,8
-star,7

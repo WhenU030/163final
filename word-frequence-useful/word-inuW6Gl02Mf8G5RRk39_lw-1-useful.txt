@@ -1,2 +1,0 @@
-dish,6
-waited,6

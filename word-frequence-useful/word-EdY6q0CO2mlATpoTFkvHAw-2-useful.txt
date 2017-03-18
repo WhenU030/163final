@@ -1,8 +1,0 @@
-dim,14
-sum,14
-soup,7
-food,18
-beef,6
-sauce,6
-flavor,9
-shrimp,9

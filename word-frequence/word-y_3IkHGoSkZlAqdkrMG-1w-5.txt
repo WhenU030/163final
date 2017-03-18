@@ -1,5 +1,0 @@
-found,6
-hotel,14
-bus,6
-don,6
-strip,6

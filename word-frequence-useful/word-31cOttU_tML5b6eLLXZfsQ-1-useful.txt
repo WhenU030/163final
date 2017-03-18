@@ -1,5 +1,0 @@
-ramen,26
-friend,6
-don,6
-karaage,7
-maybe,6

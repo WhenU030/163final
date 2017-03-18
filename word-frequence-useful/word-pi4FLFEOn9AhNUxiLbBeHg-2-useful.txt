@@ -1,3 +1,0 @@
-poke,20
-ahi,9
-spicy,7

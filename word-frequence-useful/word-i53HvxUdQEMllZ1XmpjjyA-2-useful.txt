@@ -1,6 +1,0 @@
-pizza,26
-food,13
-little,6
-wasn,6
-wings,12
-delivery,6

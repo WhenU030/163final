@@ -1,3 +1,0 @@
-change,6
-car,6
-oil,7

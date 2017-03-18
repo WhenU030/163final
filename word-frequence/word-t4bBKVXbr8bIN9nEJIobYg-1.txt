@@ -1,3 +1,0 @@
-food,14
-indian,8
-restaurant,10

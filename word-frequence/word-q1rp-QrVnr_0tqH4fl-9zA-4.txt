@@ -1,3 +1,0 @@
-move,11
-moving,7
-time,10

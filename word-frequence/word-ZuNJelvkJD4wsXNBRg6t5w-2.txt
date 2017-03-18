@@ -1,4 +1,0 @@
-chicken,7
-rice,8
-fried,6
-food,7

@@ -1,5 +1,0 @@
-meat,9
-duck,6
-butcher,6
-don,6
-seafood,6

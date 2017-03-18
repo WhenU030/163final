@@ -1,2 +1,0 @@
-tires,18
-discount,7

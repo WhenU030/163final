@@ -1,3 +1,0 @@
-service,6
-ice,14
-time,8

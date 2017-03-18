@@ -1,3 +1,0 @@
-desserts,7
-wedding,6
-cake,8

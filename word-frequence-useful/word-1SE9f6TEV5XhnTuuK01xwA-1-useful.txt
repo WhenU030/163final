@@ -1,5 +1,0 @@
-food,8
-service,10
-location,8
-wingstop,7
-time,7

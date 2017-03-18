@@ -1,4 +1,0 @@
-vegan,10
-wasn,6
-menu,7
-bar,10

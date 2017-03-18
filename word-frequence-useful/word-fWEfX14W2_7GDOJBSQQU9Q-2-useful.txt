@@ -1,2 +1,0 @@
-boat,7
-sushi,8

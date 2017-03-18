@@ -1,4 +1,0 @@
-coast,8
-movers,8
-west,8
-moving,6

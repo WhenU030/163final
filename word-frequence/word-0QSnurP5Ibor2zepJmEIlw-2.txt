@@ -1,3 +1,0 @@
-tacos,7
-food,10
-time,7

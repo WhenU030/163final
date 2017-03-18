@@ -1,4 +1,0 @@
-mexican,6
-food,12
-don,6
-restaurant,8

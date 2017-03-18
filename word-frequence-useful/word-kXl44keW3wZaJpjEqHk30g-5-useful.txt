@@ -1,4 +1,0 @@
-burger,10
-food,14
-fast,9
-service,6

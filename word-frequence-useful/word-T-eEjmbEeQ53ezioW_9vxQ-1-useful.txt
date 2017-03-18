@@ -1,4 +1,0 @@
-manager,6
-steak,14
-rare,7
-time,6

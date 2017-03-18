@@ -1,3 +1,0 @@
-smoothie,8
-smoothies,8
-delicious,6

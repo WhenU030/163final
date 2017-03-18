@@ -1,9 +1,0 @@
-customer,6
-service,7
-store,15
-price,8
-prices,9
-items,10
-walmart,22
-location,8
-lot,6

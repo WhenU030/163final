@@ -1,5 +1,0 @@
-guy,6
-hour,9
-car,20
-wash,19
-service,9

@@ -1,3 +1,0 @@
-pizza,19
-food,7
-service,7

@@ -1,3 +1,0 @@
-bartender,6
-dive,7
-bar,23

@@ -1,3 +1,0 @@
-food,7
-olives,6
-salad,6

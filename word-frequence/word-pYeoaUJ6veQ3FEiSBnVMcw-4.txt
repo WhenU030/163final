@@ -1,3 +1,0 @@
-rental,8
-didn,8
-car,19

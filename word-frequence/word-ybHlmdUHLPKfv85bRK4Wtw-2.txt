@@ -1,4 +1,0 @@
-coffee,22
-drink,9
-cup,7
-time,9

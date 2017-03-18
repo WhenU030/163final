@@ -1,4 +1,0 @@
-bacon,6
-soup,7
-sandwich,6
-food,7

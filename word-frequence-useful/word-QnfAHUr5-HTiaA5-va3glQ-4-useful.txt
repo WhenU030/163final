@@ -1,4 +1,0 @@
-lunch,6
-pizza,19
-chicken,11
-time,6

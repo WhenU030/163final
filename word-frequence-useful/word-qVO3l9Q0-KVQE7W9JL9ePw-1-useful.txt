@@ -1,3 +1,0 @@
-market,6
-food,8
-korean,6

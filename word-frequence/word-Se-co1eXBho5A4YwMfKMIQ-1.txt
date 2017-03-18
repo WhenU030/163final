@@ -1,3 +1,0 @@
-food,8
-tasted,7
-eggs,8

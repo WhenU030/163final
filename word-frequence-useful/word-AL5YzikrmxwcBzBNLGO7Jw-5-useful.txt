@@ -1,3 +1,0 @@
-fuddruckers,7
-food,6
-burger,11

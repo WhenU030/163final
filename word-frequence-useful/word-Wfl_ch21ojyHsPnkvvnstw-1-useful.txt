@@ -1,2 +1,0 @@
-sandwich,16
-pastrami,6

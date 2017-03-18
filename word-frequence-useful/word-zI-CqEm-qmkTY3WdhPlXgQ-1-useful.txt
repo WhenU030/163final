@@ -1,4 +1,0 @@
-food,11
-pho,13
-hair,6
-rolls,6

@@ -1,3 +1,0 @@
-meats,6
-service,8
-minutes,6

@@ -1,5 +1,0 @@
-manager,6
-pizza,20
-food,7
-cheese,8
-time,10

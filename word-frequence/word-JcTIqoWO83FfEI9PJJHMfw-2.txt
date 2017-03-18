@@ -1,2 +1,0 @@
-shoot,6
-range,20

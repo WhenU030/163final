@@ -1,4 +1,0 @@
-food,9
-chicken,7
-wings,10
-time,7

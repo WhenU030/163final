@@ -1,4 +1,0 @@
-told,6
-massage,11
-spa,11
-salon,8

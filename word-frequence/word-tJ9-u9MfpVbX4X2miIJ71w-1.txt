@@ -1,5 +1,0 @@
-scallops,7
-food,11
-rice,9
-fried,6
-portion,9

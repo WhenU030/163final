@@ -1,6 +1,0 @@
-amazing,6
-sandwich,6
-food,8
-lunch,6
-bread,10
-panera,11

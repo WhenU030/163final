@@ -1,3 +1,0 @@
-children,6
-kids,6
-museum,6

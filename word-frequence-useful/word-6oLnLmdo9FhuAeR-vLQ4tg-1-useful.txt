@@ -1,3 +1,0 @@
-food,9
-eat,6
-customer,6

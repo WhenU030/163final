@@ -1,4 +1,0 @@
-items,12
-phone,6
-party,7
-store,10

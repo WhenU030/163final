@@ -1,5 +1,0 @@
-water,6
-food,13
-thai,10
-restaurant,6
-portions,6

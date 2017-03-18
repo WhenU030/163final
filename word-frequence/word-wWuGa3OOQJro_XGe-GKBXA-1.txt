@@ -1,7 +1,0 @@
-food,11
-bar,15
-sushi,17
-chefs,6
-minutes,7
-reservations,6
-time,6

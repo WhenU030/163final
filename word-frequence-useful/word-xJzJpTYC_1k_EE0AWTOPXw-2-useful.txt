@@ -1,2 +1,0 @@
-movie,21
-theater,8

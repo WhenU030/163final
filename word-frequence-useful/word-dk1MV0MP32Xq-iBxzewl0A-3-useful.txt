@@ -1,2 +1,0 @@
-smoothie,9
-location,6

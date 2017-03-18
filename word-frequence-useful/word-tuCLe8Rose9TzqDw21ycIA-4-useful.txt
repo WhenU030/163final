@@ -1,4 +1,0 @@
-food,16
-meat,7
-chicken,9
-stars,7

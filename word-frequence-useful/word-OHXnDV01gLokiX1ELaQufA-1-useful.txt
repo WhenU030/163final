@@ -1,2 +1,0 @@
-asian,6
-food,6

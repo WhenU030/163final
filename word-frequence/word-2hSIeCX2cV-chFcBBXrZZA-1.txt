@@ -1,2 +1,0 @@
-service,6
-juices,8

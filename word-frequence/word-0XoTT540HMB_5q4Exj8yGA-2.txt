@@ -1,6 +1,0 @@
-hotel,6
-seasons,9
-night,9
-called,6
-check,8
-time,8

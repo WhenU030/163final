@@ -1,3 +1,0 @@
-food,10
-lunch,6
-soup,6

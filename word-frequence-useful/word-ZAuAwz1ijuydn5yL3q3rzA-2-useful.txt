@@ -1,2 +1,0 @@
-katsu,6
-curry,15

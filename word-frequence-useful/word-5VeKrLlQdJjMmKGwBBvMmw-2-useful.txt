@@ -1,4 +1,0 @@
-sauce,7
-food,9
-nthe,6
-greek,6

@@ -1,6 +1,0 @@
-nthe,6
-pizza,6
-food,9
-service,6
-bar,15
-nice,8

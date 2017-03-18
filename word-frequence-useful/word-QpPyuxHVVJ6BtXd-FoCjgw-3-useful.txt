@@ -1,3 +1,0 @@
-bit,7
-people,6
-funny,8

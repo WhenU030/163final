@@ -1,3 +1,0 @@
-tacos,8
-food,7
-guac,11

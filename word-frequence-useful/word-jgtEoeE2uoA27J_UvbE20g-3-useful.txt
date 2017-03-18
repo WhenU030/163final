@@ -1,3 +1,0 @@
-slices,8
-pizza,21
-cheese,6

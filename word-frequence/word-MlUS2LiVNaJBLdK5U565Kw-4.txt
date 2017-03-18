@@ -1,3 +1,0 @@
-five,6
-moving,6
-star,6

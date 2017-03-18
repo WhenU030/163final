@@ -1,2 +1,0 @@
-soggy,7
-pizza,34

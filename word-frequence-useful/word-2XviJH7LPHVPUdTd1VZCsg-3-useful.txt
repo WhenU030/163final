@@ -1,2 +1,0 @@
-bus,8
-downtown,6

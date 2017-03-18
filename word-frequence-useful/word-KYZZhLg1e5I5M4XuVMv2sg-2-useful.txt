@@ -1,4 +1,0 @@
-mall,30
-store,10
-stores,16
-people,6

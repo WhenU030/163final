@@ -1,8 +1,0 @@
-friendly,6
-crust,11
-pizza,20
-sauce,6
-cheese,7
-service,7
-rosati,9
-delivery,9

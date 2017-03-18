@@ -1,2 +1,0 @@
-deli,7
-sandwich,6

@@ -1,3 +1,0 @@
-jewelry,6
-pierced,8
-piercings,6

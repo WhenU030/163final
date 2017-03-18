@@ -1,5 +1,0 @@
-food,8
-meat,12
-service,8
-bad,6
-server,6

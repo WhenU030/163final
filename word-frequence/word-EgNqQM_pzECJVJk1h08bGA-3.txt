@@ -1,5 +1,0 @@
-section,11
-store,15
-don,10
-target,35
-location,11

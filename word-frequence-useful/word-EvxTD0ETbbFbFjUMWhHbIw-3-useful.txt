@@ -1,2 +1,0 @@
-curry,15
-town,6

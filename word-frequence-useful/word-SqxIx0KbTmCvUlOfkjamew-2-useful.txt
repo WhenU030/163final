@@ -1,3 +1,0 @@
-dish,6
-thai,6
-time,7

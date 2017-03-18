@@ -1,3 +1,0 @@
-carpet,9
-call,6
-eco,6

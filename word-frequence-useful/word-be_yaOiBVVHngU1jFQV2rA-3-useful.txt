@@ -1,4 +1,0 @@
-kids,6
-membership,10
-family,6
-museum,6

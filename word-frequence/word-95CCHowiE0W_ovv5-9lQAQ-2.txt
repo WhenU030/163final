@@ -1,2 +1,0 @@
-cheese,9
-fries,14

@@ -1,2 +1,0 @@
-meat,7
-sushi,7

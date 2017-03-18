@@ -1,4 +1,0 @@
-food,8
-chicken,7
-indian,11
-butter,6

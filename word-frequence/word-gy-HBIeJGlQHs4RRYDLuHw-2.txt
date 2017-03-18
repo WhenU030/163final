@@ -1,5 +1,0 @@
-parking,7
-pictures,7
-center,8
-line,7
-time,6

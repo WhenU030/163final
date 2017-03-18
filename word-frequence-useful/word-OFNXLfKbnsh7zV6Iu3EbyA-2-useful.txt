@@ -1,2 +1,0 @@
-food,6
-pizza,13

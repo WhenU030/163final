@@ -1,6 +1,0 @@
-burger,10
-animal,6
-food,6
-burgers,12
-fries,13
-time,8

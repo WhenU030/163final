@@ -1,3 +1,0 @@
-car,13
-deal,8
-department,6

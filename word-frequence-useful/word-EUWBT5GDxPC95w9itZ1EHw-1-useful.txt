@@ -1,5 +1,0 @@
-vegas,7
-food,18
-buffet,13
-steak,6
-minutes,7

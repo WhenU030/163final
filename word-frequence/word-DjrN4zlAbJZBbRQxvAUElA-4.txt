@@ -1,2 +1,0 @@
-service,7
-car,9

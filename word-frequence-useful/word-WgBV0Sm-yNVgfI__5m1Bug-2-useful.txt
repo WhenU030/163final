@@ -1,3 +1,0 @@
-smoothie,7
-food,7
-smoothies,7

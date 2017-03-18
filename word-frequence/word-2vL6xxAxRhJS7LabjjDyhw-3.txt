@@ -1,4 +1,0 @@
-laundry,7
-bar,6
-drink,8
-time,7

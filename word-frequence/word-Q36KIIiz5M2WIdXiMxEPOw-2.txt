@@ -1,3 +1,0 @@
-cupcakes,6
-cake,10
-macarons,7

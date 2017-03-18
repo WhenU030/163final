@@ -1,2 +1,0 @@
-lounge,6
-blush,8

@@ -1,2 +1,0 @@
-nurse,6
-hospital,10

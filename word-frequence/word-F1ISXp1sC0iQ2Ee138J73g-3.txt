@@ -1,7 +1,0 @@
-thru,7
-sandwich,7
-bagels,11
-food,8
-bagel,15
-don,6
-drive,8

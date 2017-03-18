@@ -1,3 +1,0 @@
-food,8
-tacos,10
-service,6

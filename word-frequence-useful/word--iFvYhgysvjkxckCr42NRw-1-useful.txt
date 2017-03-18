@@ -1,2 +1,0 @@
-food,20
-money,7

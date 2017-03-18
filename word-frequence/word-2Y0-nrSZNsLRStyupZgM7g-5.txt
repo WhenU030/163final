@@ -1,4 +1,0 @@
-food,8
-service,6
-eggs,7
-steak,11

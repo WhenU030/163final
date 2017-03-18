@@ -1,3 +1,0 @@
-food,12
-filipino,8
-buffet,8

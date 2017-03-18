@@ -1,2 +1,0 @@
-donuts,13
-dozen,6

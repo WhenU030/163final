@@ -1,3 +1,0 @@
-smog,12
-service,9
-check,13

@@ -1,4 +1,0 @@
-nthe,7
-didn,8
-hotel,11
-shower,7

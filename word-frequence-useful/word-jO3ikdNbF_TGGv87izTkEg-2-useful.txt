@@ -1,5 +1,0 @@
-sauce,9
-food,7
-party,6
-bread,9
-didn,6

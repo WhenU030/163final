@@ -1,2 +1,0 @@
-food,9
-menudo,6

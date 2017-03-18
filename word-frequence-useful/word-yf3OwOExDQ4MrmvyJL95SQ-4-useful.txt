@@ -1,6 +1,0 @@
-salon,6
-curls,6
-stylist,7
-blowout,6
-hair,13
-time,6

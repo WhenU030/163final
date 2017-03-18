@@ -1,5 +1,0 @@
-team,12
-food,8
-don,9
-menu,6
-game,6

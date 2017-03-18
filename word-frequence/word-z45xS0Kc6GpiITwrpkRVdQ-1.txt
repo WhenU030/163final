@@ -1,3 +1,0 @@
-salty,6
-food,8
-waiter,7

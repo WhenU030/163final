@@ -1,4 +1,0 @@
-nthe,6
-taco,10
-food,8
-chicken,8

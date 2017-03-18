@@ -1,5 +1,0 @@
-massage,12
-locker,9
-spa,14
-didn,6
-hair,10

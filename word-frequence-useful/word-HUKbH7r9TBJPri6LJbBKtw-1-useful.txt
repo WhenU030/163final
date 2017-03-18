@@ -1,5 +1,0 @@
-tacos,12
-food,10
-meat,7
-carne,7
-pastor,10

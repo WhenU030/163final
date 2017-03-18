@@ -1,8 +1,0 @@
-nthe,11
-food,11
-service,9
-don,6
-table,7
-server,9
-friends,6
-time,6

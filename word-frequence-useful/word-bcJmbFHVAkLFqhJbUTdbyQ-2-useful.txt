@@ -1,2 +1,0 @@
-bakery,7
-pastries,8

@@ -1,3 +1,0 @@
-paris,8
-crepe,24
-crepes,12

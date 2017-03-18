@@ -1,2 +1,0 @@
-popcorn,10
-flavors,11

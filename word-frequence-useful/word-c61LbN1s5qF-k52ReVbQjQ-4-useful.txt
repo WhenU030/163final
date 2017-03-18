@@ -1,2 +1,0 @@
-coffee,6
-food,14

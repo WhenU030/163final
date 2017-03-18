@@ -1,5 +1,0 @@
-salon,8
-haircut,8
-stylist,10
-hair,22
-nice,7

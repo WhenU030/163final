@@ -1,3 +1,0 @@
-car,13
-husband,6
-chris,6

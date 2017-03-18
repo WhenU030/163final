@@ -1,6 +1,0 @@
-experience,14
-awesome,7
-fun,7
-zombies,12
-zombie,10
-time,6

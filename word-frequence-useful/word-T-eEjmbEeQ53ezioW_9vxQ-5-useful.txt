@@ -1,2 +1,0 @@
-meal,7
-stars,6

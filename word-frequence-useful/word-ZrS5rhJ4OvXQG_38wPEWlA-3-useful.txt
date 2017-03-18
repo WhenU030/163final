@@ -1,4 +1,0 @@
-milk,6
-tea,12
-boba,14
-drinks,7

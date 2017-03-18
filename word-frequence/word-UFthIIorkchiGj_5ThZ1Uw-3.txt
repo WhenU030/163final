@@ -1,5 +1,0 @@
-kids,9
-food,20
-service,6
-pretty,10
-restaurant,8

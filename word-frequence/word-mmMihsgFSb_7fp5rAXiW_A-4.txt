@@ -1,3 +1,0 @@
-service,8
-car,14
-buying,7

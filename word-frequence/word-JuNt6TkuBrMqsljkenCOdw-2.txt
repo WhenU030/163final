@@ -1,5 +1,0 @@
-appointment,10
-told,6
-wax,6
-yelp,6
-time,9

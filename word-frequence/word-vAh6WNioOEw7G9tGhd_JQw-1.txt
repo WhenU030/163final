@@ -1,2 +1,0 @@
-waiter,6
-tip,6

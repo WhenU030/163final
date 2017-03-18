@@ -1,3 +1,0 @@
-locker,6
-spa,9
-hair,10

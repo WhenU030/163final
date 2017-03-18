@@ -1,4 +1,0 @@
-food,7
-rice,6
-bowl,7
-pho,16

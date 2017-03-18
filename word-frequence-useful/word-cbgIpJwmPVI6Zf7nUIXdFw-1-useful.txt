@@ -1,3 +1,0 @@
-sub,6
-company,6
-pizza,14

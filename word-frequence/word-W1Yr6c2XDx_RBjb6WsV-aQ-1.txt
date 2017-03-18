@@ -1,5 +1,0 @@
-kids,8
-food,23
-springs,6
-eat,6
-cafe,7

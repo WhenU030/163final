@@ -1,2 +1,0 @@
-issue,6
-plumbing,7

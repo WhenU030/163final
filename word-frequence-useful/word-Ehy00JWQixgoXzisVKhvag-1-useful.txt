@@ -1,2 +1,0 @@
-dish,6
-restaurant,8

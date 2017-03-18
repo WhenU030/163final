@@ -1,3 +1,0 @@
-food,6
-korean,14
-don,7

@@ -1,3 +1,0 @@
-chinese,6
-chop,7
-takeout,7

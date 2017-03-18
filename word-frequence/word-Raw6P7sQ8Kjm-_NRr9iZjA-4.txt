@@ -1,4 +1,0 @@
-car,20
-rental,7
-firefly,10
-time,6

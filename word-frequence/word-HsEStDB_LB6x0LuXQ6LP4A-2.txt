@@ -1,5 +1,0 @@
-food,9
-restaurant,6
-service,6
-hour,6
-don,7

@@ -1,2 +1,0 @@
-chicken,10
-teriyaki,7

@@ -1,4 +1,0 @@
-salad,7
-claim,8
-food,16
-jumper,8

@@ -1,5 +1,0 @@
-wings,9
-vegas,6
-prime,14
-service,6
-rib,12

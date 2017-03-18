@@ -1,8 +1,0 @@
-thai,11
-rice,8
-chicken,6
-usually,7
-eat,7
-fried,9
-food,8
-pad,10

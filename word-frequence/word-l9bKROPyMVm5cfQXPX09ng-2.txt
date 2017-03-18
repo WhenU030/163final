@@ -1,4 +1,0 @@
-food,7
-rolls,7
-spicy,7
-tuna,7

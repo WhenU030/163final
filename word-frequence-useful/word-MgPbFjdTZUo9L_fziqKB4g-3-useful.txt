@@ -1,4 +1,0 @@
-fun,6
-guide,7
-chase,6
-didn,7

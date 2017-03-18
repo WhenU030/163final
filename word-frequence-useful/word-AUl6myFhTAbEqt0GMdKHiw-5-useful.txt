@@ -1,3 +1,0 @@
-chipotle,6
-food,8
-love,6

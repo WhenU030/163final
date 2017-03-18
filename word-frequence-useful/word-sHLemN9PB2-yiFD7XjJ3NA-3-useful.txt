@@ -1,2 +1,0 @@
-hair,7
-color,7

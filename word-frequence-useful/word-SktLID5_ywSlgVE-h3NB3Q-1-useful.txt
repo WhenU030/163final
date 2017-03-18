@@ -1,2 +1,0 @@
-chicken,7
-food,12

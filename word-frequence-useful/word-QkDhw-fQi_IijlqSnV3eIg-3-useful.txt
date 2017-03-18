@@ -1,2 +1,0 @@
-bar,6
-garage,7

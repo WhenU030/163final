@@ -1,3 +1,0 @@
-pizza,18
-rich,6
-italian,8

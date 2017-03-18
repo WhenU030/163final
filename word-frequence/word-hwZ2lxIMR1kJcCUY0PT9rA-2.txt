@@ -1,4 +1,0 @@
-couch,7
-price,6
-furniture,7
-sales,6

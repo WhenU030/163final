@@ -50,7 +50,7 @@ table {
 body{
    font-family:'latoregular';
    font-size: 18px;
-   width: 1280px;
+   width: 100%;
    height: 700px;
    position: fixed;
 }
@@ -59,7 +59,7 @@ body{
    height: 100%;
 }
 
-nav, #map, #sidebar{
+nav, #map, #filterbar{
    position: absolute;
    top: 0;
 }
@@ -96,16 +96,21 @@ nav img{
   z-index: 10;
 }
 
-#sidebar{
-   width: 0px;
+#filterbar, #detailbar{
+   width: 400px;
    height: 100%;
    right: 0;
    background-color:rgba(0, 0, 0, 0.8);
    -moz-perspective: 800px;
    perspective: 800px;
    z-index: 50;
-   /*display: none;*/
+   color: #fff;
    transition: 0.6s;
+}
+
+#detailbar{
+  width: 650px;
+  /*float: right;*/
 }
 
 #map{
@@ -114,78 +119,54 @@ nav img{
    overflow: hidden;
 }
 
-/*======================== Card Flip ============================*/
+/*======================== filters ============================*/
+#filterbar h1{
+  font-size: 24px;
+  width: 170px;
+  margin: auto;
+}
 
-#card {
-  position: relative;
-  float: right;
+#f-t-l, #f-t-r, #f-b{
+  width: 45%;
+  float: left;
+  margin-left: 3.5%;
+  margin-top: 15px;
+  height: 25%;
+}
+
+#f-b{
+  width: 95%;
+  height: 60%
+}
+
+#star-filter, #review-filter, #cates-filter{
   width: 100%;
-  height: 100%;
-  text-align: center;
-  z-index: 100;
+  height: 95%;
+  border: 1px dashed #e1e1e1;
 }
 
-#front, #back {
-  position: absolute;
-  top: 0;
-  left: 0;
+#f-btn{
+
+}
+/*======================== filters ============================*/
+/*======================== Details ============================*/
+#d-t-l, #d-t-r, #d-b{
+  width: 45%;
+  float: left;
+  margin-left: 3.5%;
+  margin-top: 15px;
+  height: 40%;
+}
+
+#d-b{
+  width: 95%;
+  height: 55%
+}
+
+#donut, #line, #word{
   width: 100%;
-  height: 100%;
-  -moz-backface-visibility: hidden;
-       backface-visibility: hidden;
-  -moz-transition: -moz-transform 0.5s;
-            transition: transform 0.5s;
+  height: 95%;
+  border: 1px dashed #e1e1e1;
 }
 
-#front {
-  /*background-color: #ff5078;*/
-  color: #fff;
-}
 
-#back {
-  /*background-color: #436ac6;*/
-  color: #fff;
-  -moz-transform: rotateY(-180deg);
-       transform: rotateY(-180deg);
-}
-
-#card.clickflip.flipped #front {
-  -moz-transform: rotateY(-180deg);
-          transform: rotateY(-180deg);
-}
-
-#card.clickflip.flipped #back {
-  -moz-transform: rotateY(0);
-          transform: rotateY(0);
-}
-
-/*======================== End ============================*/
-#flipbtn{
-  width: 90px;
-  height: 40px;
-  border:  1px solid #e1e1e1;
-  color: #fff;
-  background-color: rgba(0, 0, 0, 0.8);
-  font-size: 14px;
-  border-radius: 5px;
-}
-
-#pie, #word{
-   width: 100%;
-   height: 270px;
-   border: 1px dashed #e1e1e1;
-   /*background-color: #e1e1e1;*/
-   z-index: 999;
-   margin-top: 15px;
-}
-
-#card h2{
-   margin-top: 15px;
-}
-
-#h-bar{
-   width: 100%;
-   height: 90%;
-   margin-top: 20px;
-   border: 1px dashed #e1e1e1;
-}

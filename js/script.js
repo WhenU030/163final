@@ -12,46 +12,38 @@ map.addEventListener('dblclick', function(){
    document.getElementById('sidebar').style.width = '0px';
 });
 
+// *********************** End *****************************
 // *********************** flip sidebar *****************************
 
-(function() {
-  var cards = document.querySelectorAll(".clickflip");
-  for ( var i  = 0, len = cards.length; i < len; i++ ) {
-    var card = cards[i];
-    flip( card );
-  }
+Element.prototype.hasClassName = function (a) {
+    return new RegExp("(?:^|\\s+)" + a + "(?:\\s+|$)").test(this.className);
+};
 
-  function flip(card) {
-    card.addEventListener( "click", function() {
-      var c = this.classList;
-      c.contains("flipped") === true ? c.remove("flipped") : c.add("flipped");
-    });
-  }
-})();
+Element.prototype.addClassName = function (a) {
+    if (!this.hasClassName(a)) {
+        this.className = [this.className, a].join(" ");
+    }
+};
 
-// var flip = document.getElementById('flipbtn');
-// var card = document.getElementById("card");
+Element.prototype.removeClassName = function (b) {
+    if (this.hasClassName(b)) {
+        var a = this.className;
+        this.className = a.replace(new RegExp("(?:^|\\s+)" + b + "(?:\\s+|$)", "g"), " ");
+    }
+};
 
-// flip.addEventListener('click', function(){
-//    var cardClass = card.className + ' ';
-//     console.log("SSkkkkksss")
-//     if ( ~cardClass.indexOf(' flipped ') ) {
-//         this.cardClass = cardClass.replace(' flipped ', ' ');
-//     } else {
-//         this.cardClass += ' flipped';
-//     }
-// })
-//
-// document.getElementById('flipbtn').onclick = function() {
-//     console.log("SSsssss")
-//     var card = document.getElementById("card");
-//     var cardClass = card.className + ' ';
-//     console.log("SSkkkkksss")
-//     if ( ~cardClass.indexOf(' flipped ') ) {
-//         this.cardClass = cardClass.replace(' flipped ', ' ');
-//     } else {
-//         this.cardClass += ' flipped';
-//     }
-// }
-//
-// *********************** show/hide sidebar *****************************
+Element.prototype.toggleClassName = function (a) {
+  this[this.hasClassName(a) ? "removeClassName" : "addClassName"](a);
+};
+
+var init = function() {
+  var card = document.getElementById('card');
+
+  document.getElementById('flipbtn').addEventListener( 'click', function(){
+    card.toggleClassName('flipped');
+  }, false);
+};
+
+window.addEventListener('DOMContentLoaded', init, false);
+
+// *********************** flip sidebar end *****************************

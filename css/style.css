@@ -48,11 +48,11 @@ table {
 }
 /*--------------------- CSS Rest End ---------------------------------*/
 body{
-   font-family:'latoregular';
+   font-family:'latolight';
    font-size: 18px;
    width: 100%;
    height: 700px;
-   position: fixed;
+   /*position: fixed;*/
 }
 
 #container{
@@ -85,7 +85,7 @@ nav h1{
 
 strong{
    color: #D32323;
-   font-family:'latobold';
+   font-family:'latoregular';
    font-size: 36px;
 }
 
@@ -97,13 +97,13 @@ nav img{
 }
 
 #filterbar, #detailbar{
-   width: 400px;
+   width: 470px;
    height: 100%;
    right: 0;
    background-color:rgba(0, 0, 0, 0.8);
    -moz-perspective: 800px;
    perspective: 800px;
-   z-index: 50;
+   z-index: 10;
    color: #fff;
    transition: 0.6s;
 }
@@ -121,33 +121,67 @@ nav img{
 
 /*======================== filters ============================*/
 #filterbar h1{
-  font-size: 24px;
-  width: 170px;
-  margin: auto;
+  font-size: 36px;
+  width: 300px;
+  margin: 10px 0 0 25px;
+  color: #d64a4a;
+  font-family: 'latoregular';
 }
 
-#f-t-l, #f-t-r, #f-b{
+#reset{
+  width: 70px;
+  height: 20px;
+  float: right;
+  margin: 10px 20px 0 0;
+  border: none;
+  border-radius: 5px;
+  color: #a53535;
+  font-family: 'latoregular';
+  font-size: 13px;
+  background-color:rgba(255, 255, 255, 0.8);
+  transition: 0.5s;
+}
+
+#reset:hover{
+  color: #fff;
+  background-color: #d64a4a;
+}
+
+#f-t-l, #f-t-r{
   width: 45%;
   float: left;
   margin-left: 3.5%;
-  margin-top: 15px;
-  height: 25%;
+  margin-top: 20px;
+  height: 20%;
+}
+
+#f-t-l{
+  margin-left: 30px;
+  width: 45%;
 }
 
 #f-b{
   width: 95%;
-  height: 60%
+  height: 68%;
+  float: left;
+  margin-top: 20px;
 }
 
 #star-filter, #review-filter, #cates-filter{
   width: 100%;
   height: 95%;
-  border: 1px dashed #e1e1e1;
+  margin-top: 10px;
 }
 
-#f-btn{
-
+#f-t-l h2, #f-t-r h2, #f-b h2{
+  font-family: 'latolight';
+  font-size: 20px;
 }
+
+#f-b h2{
+  padding-left: 20px;
+}
+
 /*======================== filters ============================*/
 /*======================== Details ============================*/
 #d-t-l, #d-t-r, #d-b{
@@ -167,6 +201,91 @@ nav img{
   width: 100%;
   height: 95%;
   border: 1px dashed #e1e1e1;
+  z-index: 50;
 }
 
+/*===========================  Bar =================================*/
+/*===========================  star checkbox =================================*/
+#starfilter {
+  position: relative;
+  margin: 20px auto;
+}
+
+.boxes{
+  width: 100%;
+}
+
+.r-list{
+  height: 100%;
+  float: left;
+}
+
+.r-list .boxes{
+  margin:0 15px 8px 0;
+}
+
+/*===========================  star checkbox =================================*/
+
+.bar {
+   fill:#d64a4a;
+}
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #D4D8DA;
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
+}
+.x path {
+   display: none;
+}
+.toolTip_bar {
+  position: absolute;
+  display: none;
+  max-width: 30px;
+  height: auto;
+  background: none repeat scroll 0 0 #ffffff;
+  border: 1px solid #e1e1e1;
+  padding: 14px;
+  text-align: center;
+  /*z-index: 50;*/
+}
+
+/*================================  Donut =========================*/
+ #donut {
+        position: relative;
+        margin-left: 10px;
+      }
+      .tooltipDonut {
+        background: #eee;
+        box-shadow: 0 0 5px #999999;
+        color: #333;
+        display: none;
+        font-size: 12px;
+        left: 130px;
+        padding: 10px;
+        position: absolute;
+        text-align: center;
+        top: 95px;
+        width: 80px;
+        z-index: 10;
+      }
+      .legendDonut {
+        font-size: 12px;
+        fill: white;
+      }
+      rect {
+        stroke-width: 2;
+      }
+
+      .legendWD {
+        border: 1px solid #555555;
+        border-radius: 5px 5px 5px 5px;
+        font-size: 0.8em;
+        margin: 10px;
+        padding: 8px;
+      }
+      .bld {
+        font-weight: bold;
+      }
 

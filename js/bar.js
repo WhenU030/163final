@@ -3,13 +3,21 @@ var bar = d3.select("#cates_filter"),
     b_w = +bar.attr("width") - margin_bar.left - margin_bar.right,
     b_h = +bar.attr("height") - margin_bar.top - margin_bar.bottom;
 
-var tooltip_bar = d3.select("#f-b").append("div").attr("class", "toolTip_bar");
-
 var x_bar = d3.scaleLinear().range([0, b_w]);
 var y_bar = d3.scaleBand().range([b_h, 0]);
 
 var g = bar.append("g")
       .attr("transform", "translate(" + margin_bar.left + "," + margin_bar.top + ")");
+
+var tooltipBar = d3.select('#cates_filter')
+         .append('div')
+         .attr('class', 'tooltipBar');
+
+      tooltipBar.append('div')
+         .attr('class', 'labelBar');
+
+      tooltipBar.append('div')
+         .attr('class', 'countBar');
 
 d3.csv("data/business-100-categ-frequence.csv", function(error, data) {
    if (error) throw error;
@@ -32,8 +40,7 @@ d3.csv("data/business-100-categ-frequence.csv", function(error, data) {
         .selectAll("text")
       .style("text-anchor", "end")
       .style("fill", "#fff")
-      .style("font-family", "'latolight'")
-      .attr("transform", "rotate(-15)");
+      .style("font-family", "'latolight'");
 
     g.selectAll(".bar")
         .data(data)
@@ -42,13 +49,15 @@ d3.csv("data/business-100-categ-frequence.csv", function(error, data) {
         .attr("x", 0)
         .attr("height", y_bar.bandwidth())
         .attr("y", function(d) { return y_bar(d.categs); })
-        .attr("width", function(d) { return x_bar(d.count); })
+        .attr("width", function(d) { return x_bar(d.count); });
+
+    g.selectAll(".bar")
+        .on("mouseover", function(d){
+              tooltipBar.select('.labelBar').html("Number of Business under "+d.categs + ": ");
+              tooltipBar.select('.countBar').html(d.count)
+              tooltipBar.style('display', 'block');})
         .on("mousemove", function(d){
-            tooltip_bar
-              .style("left", d3.event.pageX - 50 + "px")
-              .style("top", d3.event.pageY - 70 + "px")
-              .style("display", "inline-block")
-              .html("Number of Business under " + "<strong>"+(d.categs)+"</strong>" + ": " + (d.count));
-        })
-         .on("mouseout", function(d){ tooltip_bar.style("display", "none");});
+              tooltipBar.style("left", (d3.event.pageX - 700) + "px")
+              .style("top", (d3.event.pageY - 200) + "px");})
+         .on("mouseout", function(d){ tooltipBar.style("display", "none");});
 });

@@ -6,7 +6,7 @@ d3.csv("data/word-_8yxceldCT7oe0wJC-yDPA-3.csv", function(data) {dataViz(data)})
     function dataViz(data) {
      d3.layout.cloud().size([268, 268])
       .words(data)
-      .rotate(function(d) { return d.words.length > 5 ? 0 : 90; })
+      .rotate(function(d) { return d.words.length > 5 ? 0 : 0; })
       .fontSize(function(d) { return wordScale(d.count); })
       .on("end", draw)
       .start();
@@ -24,10 +24,9 @@ d3.csv("data/word-_8yxceldCT7oe0wJC-yDPA-3.csv", function(data) {dataViz(data)})
       .append("text")
       .style("font-size", function(d) { return d.size + "px"; })
         .style("fill", function(d) { return (keywords.indexOf(d.words) > -1 ? "red" : "#fff"); })
-        .style("opacity", .75)
         .attr("text-anchor", "middle")
         .attr("transform", function(d) {
-          return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+          return "translate(" + [d.x+150, d.y+140] + ")rotate(" + d.rotate + ")";
         })
         .text(function(d) { return d.words; });
       }

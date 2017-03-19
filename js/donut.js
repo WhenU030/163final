@@ -8,7 +8,8 @@
         var legendRectSizePie = 12;
         var legendSpacingPie = 3;
 
-        var colorpie = d3.scaleOrdinal(d3.schemeCategory20c);
+        var colorpie = d3.scaleOrdinal()
+    .range(["#fcd6d6", "#ff9e9e", "#e26c6c","#db4c4c","#d32828"]);
 ;
 
         var svgDonut = d3.select('#donut')
@@ -62,9 +63,9 @@
                return d.count;
             }));
             var percent = Math.round(1000 * d.data.count / total) / 10;
-              tooltipDonut.select('.label').html(d.data.star + " reviews");
+              tooltipDonut.select('.label').html("Number of "+d.data.star + " rating:");
               tooltipDonut.select('.count').html(d.data.count);
-              tooltipDonut.select('.percent').html(percent + '%');
+              tooltipDonut.select('.percent').html(percent + '% of total');
               tooltipDonut.style('display', 'block');
           });
 
@@ -73,8 +74,8 @@
            });
 
           path.on('mousemove', function(d) {
-            tooltipDonut.style('top', (d3.event.pageY + 2) + 'px')
-              .style('left', (d3.event.pageX + 2) + 'px');
+            tooltipDonut.style('top', (d3.event.pageY -50) + 'px')
+              .style('left', (d3.event.pageX -50) + 'px');
           });
 
 

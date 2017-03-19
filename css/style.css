@@ -55,6 +55,10 @@ body{
    /*position: fixed;*/
 }
 
+svg{
+  z-index: 100;
+}
+
 #container{
    height: 100%;
 }
@@ -182,7 +186,15 @@ nav img{
   padding-left: 20px;
 }
 
+#cates-filter{
+  position: relative;
+}
+
 /*======================== filters ============================*/
+#togglebtn{
+  width:50px;
+  float: right;
+}
 /*======================== Details ============================*/
 #d-t-l, #d-t-r, #d-b{
   width: 45%;
@@ -194,14 +206,21 @@ nav img{
 
 #d-b{
   width: 95%;
-  height: 55%
+  height: 47%;
 }
 
 #donut, #line, #word{
   width: 100%;
   height: 95%;
-  border: 1px dashed #e1e1e1;
-  z-index: 50;
+  /*border: 1px dashed #e1e1e1;*/
+}
+
+.business{
+  font-family: 'latoregular';
+  font-size: 28px;
+  width: 440px;
+  margin: auto;
+  padding: 20px;
 }
 
 /*===========================  Bar =================================*/
@@ -255,37 +274,41 @@ nav img{
  #donut {
         position: relative;
         margin-left: 10px;
-      }
-      .tooltipDonut {
-        background: #eee;
-        box-shadow: 0 0 5px #999999;
-        color: #333;
-        display: none;
-        font-size: 12px;
-        left: 130px;
-        padding: 10px;
-        position: absolute;
-        text-align: center;
-        top: 95px;
-        width: 80px;
-        z-index: 10;
-      }
-      .legendDonut {
-        font-size: 12px;
-        fill: white;
-      }
-      rect {
-        stroke-width: 2;
-      }
+}
 
-      .legendWD {
-        border: 1px solid #555555;
-        border-radius: 5px 5px 5px 5px;
-        font-size: 0.8em;
-        margin: 10px;
-        padding: 8px;
-      }
-      .bld {
-        font-weight: bold;
-      }
+.tooltipDonut, .tooltipBar {
+  background: #eee;
+  box-shadow: 0 0 5px #999999;
+  color: #333;
+  display: none;
+  font-size: 12px;
+  left: 130px;
+  padding: 10px;
+  position: absolute;
+  text-align: center;
+  top: 95px;
+  width: 80px;
+  z-index: 10;
+}
+
+.legendDonut {
+  font-size: 12px;
+  fill: white;
+}
+
+rect {
+  stroke-width: 2;
+}
+
+.legendWD {
+  border: 1px solid #555555;
+  border-radius: 5px 5px 5px 5px;
+  font-size: 0.8em;
+  margin: 10px;
+  padding: 8px;
+}
+
+.bld {
+  font-weight: bold;
+}
 

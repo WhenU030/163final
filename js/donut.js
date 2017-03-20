@@ -40,8 +40,6 @@
         tooltipDonut.append('div')
            .attr('class', 'percent');
 
-
-
         //test: id: _3olhuCXhoqjy4M2rBp1YA
 
         d3.csv('data/bus-stars-pie/pie-_3olhuCXhoqjy4M2rBp1YA.csv', function(error, dataset) {
@@ -74,9 +72,18 @@
            });
 
           path.on('mousemove', function(d) {
-            tooltipDonut.style('top', (d3.event.pageY -65) + 'px')
-              .style('left', (d3.event.pageX -65) + 'px');
+            tooltipDonut.style('top', (d3.event.pageY -50) + 'px')
+              .style('left', (d3.event.pageX -50) + 'px');
           });
+          path.on('click',function(d){
+              var index =d.data.star.substring(4,6);
+
+              var BID="_3olhuCXhoqjy4M2rBp1YA";
+              var nextFile=BID.concat(index)+".csv";
+               console.log(nextFile);
+             word(nextFile);
+          });
+
 
 
           var legendDonut = svgDonut.selectAll('.legendDonut')
@@ -96,7 +103,8 @@
             .attr('width', legendRectSizePie)
             .attr('height', legendRectSizePie)
             .style('fill', colorpie)
-            .style('stroke', colorpie);
+            .style('stroke', colorpie)
+
 
           legendDonut.append('text')
             .attr('x', legendRectSizePie + legendSpacingPie)
@@ -105,4 +113,44 @@
 
         });
 
-      })(window.d3);
+})(window.d3);
+
+
+function word(businessid){
+    var prefix="data/word-frequence/word-";
+    var filename=prefix.concat(businessid);
+    console.log(filename);
+    d3.csv(filename, function(data) {dataViz(data)});
+
+    wordScale=d3.scaleLinear().domain([0,100]).range([10,160]).clamp(true);
+    var keywords = ["layout", "zoom", "circle", "style", "append", "attr"]
+
+    function dataViz(data) {
+       d3.layout.cloud().size([250, 250])
+        .words(data)
+        .rotate(function(d) { return d.words.length > 5 ? 0 : 0; })
+        .fontSize(function(d) { return wordScale(d.count); })
+        .on("end", draw)
+        .start();
+
+        function draw(words) {
+          var wordG = d3.select("#word");
+          var g = wordG.append("g")
+          .attr("transform", "translate(250,250)");
+
+          wordG.selectAll("text")
+          .data(words)
+          .enter()
+          .append("text")
+          .attr("class", "words")
+          .style("font-size", function(d) { return d.size + "px"; })
+          .style("fill", function(d) { return (keywords.indexOf(d.words) > -1 ? "red" : "#fff"); })
+          .attr("text-anchor", "middle")
+          .attr("transform", function(d) {
+            return "translate(" + [d.x+150, d.y+140] + ")rotate(" + d.rotate + ")";
+            })
+          .text(function(d) { return d.words; });
+      }
+    }
+    d3.selectAll(".words").remove();
+}

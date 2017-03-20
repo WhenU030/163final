@@ -1,25 +1,31 @@
 // *********************** show/hide sidebar *****************************
 var showfilter = document.getElementById("map");
 var reset = document.getElementById("reset");
-// var f_btn = document.getElementById("f-btn");
 
 showfilter.addEventListener('click', function(){
    document.getElementById('filterbar').style.width = '0px';
-
 });
 
-reset.addEventListener('click', function(){
+reset.addEventListener('click', function(element){
    document.getElementById('filterbar').style.width = '470px';
-
+   if (!element.checked) {
+      element.setAttribute("checked", "");
+   }
 });
 
+// *********************** show/hide sidebar end *****************************
 
+// *********************** checkbox status *****************************
+function toggleCheckbox(element){
+   if (element.checked) {
+      element.setAttribute("checked", "checked");
+   } else {
+      element.setAttribute("checked", "");
+   }
+}
 
-// f_btn.addEventListener('click', function(){
-//
-// });
+// *********************** checkbox status *****************************
 
-// *********************** show/hide filterbar end*****************************
 // // *********************** flip filterbar *****************************
 
 // Element.prototype.hasClassName = function (a) {

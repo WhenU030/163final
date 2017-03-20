@@ -1,10 +1,10 @@
-d3.csv("data/word-_8yxceldCT7oe0wJC-yDPA-3.csv", function(data) {dataViz(data)});
+d3.csv("data/word-frequence/word-_3olhuCXhoqjy4M2rBp1YA-5.csv", function(data) {dataViz(data)});
 
     wordScale=d3.scaleLinear().domain([0,100]).range([10,160]).clamp(true);
     var keywords = ["layout", "zoom", "circle", "style", "append", "attr"]
 
     function dataViz(data) {
-     d3.layout.cloud().size([268, 268])
+     d3.layout.cloud().size([250, 250])
       .words(data)
       .rotate(function(d) { return d.words.length > 5 ? 0 : 0; })
       .fontSize(function(d) { return wordScale(d.count); })
@@ -26,7 +26,7 @@ d3.csv("data/word-_8yxceldCT7oe0wJC-yDPA-3.csv", function(data) {dataViz(data)})
         .style("fill", function(d) { return (keywords.indexOf(d.words) > -1 ? "red" : "#fff"); })
         .attr("text-anchor", "middle")
         .attr("transform", function(d) {
-          return "translate(" + [d.x+150, d.y+140] + ")rotate(" + d.rotate + ")";
+          return "translate(" + [d.x+120, d.y+125] + ")rotate(" + d.rotate + ")";
         })
         .text(function(d) { return d.words; });
       }

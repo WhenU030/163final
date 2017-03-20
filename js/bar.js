@@ -1,4 +1,5 @@
 var bar = d3.select("#cates_filter"),
+    valueMargin = 4,
     margin_bar = {top: 40, right: 20, bottom: 30, left: 130},
     b_w = +bar.attr("width") - margin_bar.left - margin_bar.right,
     b_h = +bar.attr("height") - margin_bar.top - margin_bar.bottom;
@@ -57,11 +58,13 @@ d3.csv("data/business-100-categ-frequence.csv", function(error, data) {
 
     g.selectAll(".bar")
         .on("mouseover", function(d){
-              tooltipBar.select('.labelBar').html("Number of Business under "+d.categs + ": ");
-              tooltipBar.select('.countBar').html(d.count)
-              tooltipBar.style('display', 'block');})
-        .on("mousemove", function(d){
-              tooltipBar.style("left", (d3.event.pageX - 700) + "px")
-              .style("top", (d3.event.pageY - 200) + "px");})
-         .on("mouseout", function(d){ tooltipBar.style("display", "none");});
+          d3.select(this).attr("opacity","0.8"); })
+              // tooltipBar.select('.labelBar').html("Number of Business under "+d.categs + ": ");
+              // tooltipBar.select('.countBar').html(d.count)
+              // tooltipBar.style('display', 'block');})
+        // .on("mousemove", function(d){
+        //       tooltipBar.style("left", (d3.event.pageX - 700) + "px")
+        //       .style("top", (d3.event.pageY - 200) + "px");})
+         .on("mouseout", function(d){
+           d3.select(this).attr("opacity","1"); });
 });

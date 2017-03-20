@@ -1,10 +1,10 @@
 (function(d3) {
         'use strict';
 
-        var widthpie = 250;
-        var heightpie = 250;
+        var widthpie = 230;
+        var heightpie = 230;
         var radiuspie = Math.min(widthpie, heightpie) / 2;
-        var donutWidth = 65;
+        var donutWidth = 55;
         var legendRectSizePie = 12;
         var legendSpacingPie = 3;
 
@@ -74,8 +74,8 @@
            });
 
           path.on('mousemove', function(d) {
-            tooltipDonut.style('top', (d3.event.pageY -50) + 'px')
-              .style('left', (d3.event.pageX -50) + 'px');
+            tooltipDonut.style('top', (d3.event.pageY -65) + 'px')
+              .style('left', (d3.event.pageX -65) + 'px');
           });
 
 

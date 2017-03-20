@@ -9,16 +9,6 @@ var y_bar = d3.scaleBand().range([b_h, 0]);
 var g = bar.append("g")
       .attr("transform", "translate(" + margin_bar.left + "," + margin_bar.top + ")");
 
-var tooltipBar = d3.select('#cates_filter')
-         .append('div')
-         .attr('class', 'tooltipBar');
-
-      tooltipBar.append('div')
-         .attr('class', 'labelBar');
-
-      tooltipBar.append('div')
-         .attr('class', 'countBar');
-
 d3.csv("data/business-100-categ-frequence.csv", function(error, data) {
    if (error) throw error;
 
@@ -199,5 +189,8 @@ function selectCat() {
 
         });
     }
+
+    multifilterUpdate();
+
 
 }

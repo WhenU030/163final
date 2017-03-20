@@ -370,15 +370,33 @@ rect {
 
 }
 
+
+.cir-notslected{
+    opacity: 0;
+
+}
 .cir-cat-selected {
-    fill:orange;
-    opacity: 1;
+    /*fill:orange;*/
+    opacity: 0;
 
 }
 
 
-.cir-box-selected {
-    fill:orange;
+.cir-rev-selected{
+    /*fill:orange;*/
+    opacity: 0;
+}
+
+.cir-star-selected {
+    /*fill:orange;*/
+    opacity: 0;
+
+}
+
+
+
+.cir-mul-selected {
+    /*fill:#d64a4a;*/
     opacity: 1;
 
 }

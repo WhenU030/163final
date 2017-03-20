@@ -10,6 +10,13 @@ showfilter.addEventListener('click', function(){
 
 reset.addEventListener('click', function(){
    document.getElementById('filterbar').style.width = '470px';
+   var checked = document.getElementsByName('check');
+   for (var i = 0; i < checked.length; i++) {
+      if (document.getElementsByName("check")[i].checked) {
+               document.getElementsByName("check")[i].checked = false;
+           }
+   }
+
 });
 
 // *********************** show/hide sidebar end *****************************

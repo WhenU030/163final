@@ -208,8 +208,58 @@ nav img{
   position: relative;
 }
 
-.boxes{
-  font-size: 14px;
+.boxes {
+   width: 25px;
+   margin: 2px 0 0 5px;
+   position: relative;
+   font-size: 14px;
+}
+
+.boxes label {
+   cursor: pointer;
+   position: absolute;
+   width: 13px;
+   height: 13px;
+   top: 0;
+   left: 0;
+   margin: 2px 0 0 4px;
+   background: #eee;
+   border:1px solid #ddd;
+   border-radius: 5px;
+}
+
+.boxes label img{
+  margin-left: 25px;
+}
+
+.boxes label:after {
+   opacity: 0.2;
+   content: '';
+   position: absolute;
+   width: 6px;
+   height: 3px;
+   background: transparent;
+   top: 2px;
+   left: 2px;
+   border: 3px solid #d64a4a;
+   border-top: none;
+   border-right: none;
+
+   transform: rotate(-45deg);
+}
+
+/**
+ * Create the hover event of the tick
+ */
+.boxes label:hover::after {
+   opacity: 0.5;
+}
+
+/**
+ * Create the boxesbox state for the tick
+ */
+.boxes input[type=checkbox]:checked + label:after {
+   opacity: 1;
 }
 
 /*======================== filters end ============================*/

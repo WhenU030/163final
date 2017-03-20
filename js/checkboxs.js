@@ -1,3 +1,11 @@
+function initialBoxs(){
+    d3.selectAll('.circleMap').classed('cir-box-selected', false).classed("cir-cat-selected",false);
+    d3.selectAll(".selected-bar").classed("selected-bar",false);
+    // d3.selectAll("check").setAttribute("checked", "");
+    // var checked = document.getElementsByClassName('check')..setAttribute("checked", "");;
+
+}
+
 
 function selectBoxs(target) {
     var targetid = target.id;

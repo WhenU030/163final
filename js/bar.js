@@ -50,6 +50,9 @@ d3.csv("data/business-100-categ-frequence.csv", function(error, data) {
         .data(data)
       .enter().append("rect")
         .attr("class", "bar")
+        .attr("cat-class", function (d) {
+            return d.categs.split(' ').join('-');
+        })
         .attr("x", 0)
         .attr("height", y_bar.bandwidth())
         .attr("y", function(d) { return y_bar(d.categs); })

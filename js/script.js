@@ -5,6 +5,7 @@ var checked = document.getElementsByClassName('check');
 
 showfilter.addEventListener('click', function(){
    document.getElementById('filterbar').style.width = '0px';
+
 });
 
 reset.addEventListener('click', function(){

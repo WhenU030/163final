@@ -24,13 +24,17 @@ d3.csv("data/business-100-categ-frequence.csv", function(error, data) {
 
    data.sort(function(a, b) { return a.count - b.count; });
 
-   x_bar.domain([100, d3.max(data.filter(function(d){ return d.count >= 100;}), function(d) { return d.count; })]).nice();
+   x_bar.domain([50, 1250]).nice();
    y_bar.domain(data.filter(function(d){ return d.count >= 100;}).map(function(d) { return d.categs; })).padding(0.1);
 
     g.append("g")
         .attr("class", "x_bar axis")
          .call(d3.axisTop(x_bar))
           .selectAll("text")
+      .attr("dx", "0.7em")
+      .attr("dy", ".5em")
+      .attr("transform", "rotate(-65)")
+      .style("text-anchor", "start")
       .style("fill", "#fff")
       .style("font-family", "'latolight'");
 

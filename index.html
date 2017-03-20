@@ -5,6 +5,7 @@
    	<title>ECS 163 Final Project</title>
       <link rel="stylesheet" type="text/css" href="css/style.css">
       <link rel="stylesheet" type="text/css" href="css/font.css">
+      <link rel="stylesheet" type="text/css" href="css/leaflet.css">
    </head>
    <body>
       <div id="container">
@@ -89,7 +90,7 @@
 
             <div id="f-b">
               <h2>· Top 20 Categories ·</h2>
-              <svg id="cates_filter" width="450" height="460"></svg>
+              <svg id="cates_filter" width="470" height="460"></svg>
             </div>
         </div>
         <div id="togglebtn">
@@ -97,8 +98,9 @@
         </div>
          <div id="detailbar">
             <header>
-              <h2 class="business">· Benjarong Authentic Thai Cuisine ·</h2>
+              <h2 id="storename" class="business">Benjarong Authentic Thai Cuisine</h2>
             </header>
+            <h2>· Overall Star Rating ·</h2>
             <div id="d-t-l">
               <div id="donut"></div>
             </div>
@@ -113,6 +115,7 @@
 
       <!-- LIBRARIES -->
       <script type="text/javascript" src="js/d3.min.js"></script>
+      <script type="text/javascript" src="js/leaflet0.7.7.js"></script>
       <script type="text/JavaScript" src="js/d3.layout.cloud.js"></script>
 
       <!-- Our JS -->
@@ -120,5 +123,6 @@
       <script type="text/javascript" src="js/bar.js"></script>
       <script type="text/javascript" src="js/donut.js"></script>
       <script type="text/javascript" src="js/word.js"></script>
+      <script type="text/javascript" src="js/lvmap.js"></script>
    </body>
 </html>

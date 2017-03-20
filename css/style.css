@@ -63,7 +63,7 @@ svg{
    height: 100%;
 }
 
-nav, #map, #filterbar{
+nav, #map, #filterbar, #detailbar{
    position: absolute;
    top: 0;
 }
@@ -114,14 +114,23 @@ nav img{
 
 #detailbar{
   width: 650px;
-  /*float: right;*/
+  left:0;
 }
 
 #map{
    width: 100%;
-   height: 100%;
+   height: 100vh;
    overflow: hidden;
+   margin: 0 auto;
+   position: relative;
+   z-index: -1;
 }
+
+.circleMap {
+  stroke: #111111;
+  stroke-width: 1px;
+}
+
 
 /*======================== filters ============================*/
 #filterbar h1{
@@ -177,13 +186,17 @@ nav img{
   margin-top: 10px;
 }
 
-#f-t-l h2, #f-t-r h2, #f-b h2{
+#f-t-l h2, #f-t-r h2, #f-b h2, #detailbar h2{
   font-family: 'latolight';
   font-size: 20px;
 }
 
 #f-b h2{
   padding-left: 20px;
+}
+
+#detailbar h2{
+  padding: 0px 0 20px 20px;
 }
 
 #cates-filter{
@@ -215,12 +228,13 @@ nav img{
   /*border: 1px dashed #e1e1e1;*/
 }
 
-.business{
+#detailbar #storename{
   font-family: 'latoregular';
-  font-size: 28px;
+  font-size: 30px;
   width: 440px;
-  margin: auto;
+  /*margin: auto;*/
   padding: 20px;
+  color:#d64a4a;
 }
 
 /*===========================  Bar =================================*/

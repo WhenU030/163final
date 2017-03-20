@@ -1,5 +1,4 @@
 var bar = d3.select("#cates_filter"),
-    valueMargin = 4,
     margin_bar = {top: 40, right: 20, bottom: 30, left: 130},
     b_w = +bar.attr("width") - margin_bar.left - margin_bar.right,
     b_h = +bar.attr("height") - margin_bar.top - margin_bar.bottom;
@@ -59,12 +58,143 @@ d3.csv("data/business-100-categ-frequence.csv", function(error, data) {
     g.selectAll(".bar")
         .on("mouseover", function(d){
           d3.select(this).attr("opacity","0.8"); })
-              // tooltipBar.select('.labelBar').html("Number of Business under "+d.categs + ": ");
-              // tooltipBar.select('.countBar').html(d.count)
-              // tooltipBar.style('display', 'block');})
-        // .on("mousemove", function(d){
-        //       tooltipBar.style("left", (d3.event.pageX - 700) + "px")
-        //       .style("top", (d3.event.pageY - 200) + "px");})
          .on("mouseout", function(d){
-           d3.select(this).attr("opacity","1"); });
+           d3.select(this).attr("opacity","1"); })
+         .on('click', selectCat);
 });
+
+function selectCat() {
+    if(d3.select(this).classed("selected-bar")) {
+        d3.select(this).classed("selected-bar",false);
+
+        var target =d3.select(this).attr("cat-class");
+
+        var targetcir = d3.selectAll('.circleMap').each(function (d) {
+            var match = d3.select(this).attr("cat1-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', false);
+            }
+            match = d3.select(this).attr("cat2-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', false);
+            }
+            match = d3.select(this).attr("cat3-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', false);
+            }
+            match = d3.select(this).attr("cat4-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', false);
+            }
+            match = d3.select(this).attr("cat5-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', false);
+            }
+            match = d3.select(this).attr("cat6-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', false);
+            }
+            match = d3.select(this).attr("cat7-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', false);
+            }
+            match = d3.select(this).attr("cat8-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', false);
+            }
+            match = d3.select(this).attr("cat9-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', false);
+            }
+            match = d3.select(this).attr("cat10-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', false);
+            }
+            match = d3.select(this).attr("cat11-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', false);
+            }
+            match = d3.select(this).attr("cat12-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', false);
+            }
+            match = d3.select(this).attr("cat13-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', false);
+            }
+            match = d3.select(this).attr("cat14-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', false);
+            }
+
+        });
+
+
+    }
+    else{
+        d3.select(this).classed("selected-bar",true);
+
+        var target =d3.select(this).attr("cat-class");
+
+        var targetcir = d3.selectAll('.circleMap').each(function (d) {
+            var match = d3.select(this).attr("cat1-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', true);
+            }
+            match = d3.select(this).attr("cat2-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', true);
+            }
+            match = d3.select(this).attr("cat3-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', true);
+            }
+            match = d3.select(this).attr("cat4-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', true);
+            }
+            match = d3.select(this).attr("cat5-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', true);
+            }
+            match = d3.select(this).attr("cat6-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', true);
+            }
+            match = d3.select(this).attr("cat7-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', true);
+            }
+            match = d3.select(this).attr("cat8-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', true);
+            }
+            match = d3.select(this).attr("cat9-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', true);
+            }
+            match = d3.select(this).attr("cat10-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', true);
+            }
+            match = d3.select(this).attr("cat11-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', true);
+            }
+            match = d3.select(this).attr("cat12-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', true);
+            }
+            match = d3.select(this).attr("cat13-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', true);
+            }
+            match = d3.select(this).attr("cat14-class");
+            if(target == match) {
+                d3.select(this).classed('cir-cat-selected', true);
+            }
+
+        });
+    }
+
+}

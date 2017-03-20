@@ -55,10 +55,6 @@ body{
    /*position: fixed;*/
 }
 
-svg{
-  z-index: 100;
-}
-
 #container{
    height: 100%;
 }
@@ -114,6 +110,7 @@ nav img{
 
 #detailbar{
   width: 630px;
+  display: none;
   left:0;
   z-index: 50;
 }
@@ -129,14 +126,17 @@ nav img{
 
 .circleMap {
   stroke: #111111;
+  fill:#d64a4a;
   stroke-width: 1px;
+  opacity: 0.6;
+
 }
 
 
 /*======================== filters ============================*/
 #filterbar h1{
   font-size: 36px;
-  width: 300px;
+  /*width: 300px;*/
   margin: 10px 0 0 25px;
   color: #d64a4a;
   font-family: 'latoregular';
@@ -169,9 +169,13 @@ nav img{
   height: 20%;
 }
 
+#f-t-r{
+  width: 60%;
+}
+
 #f-t-l{
   margin-left: 30px;
-  width: 45%;
+  width: 30%;
 }
 
 #f-b{
@@ -197,11 +201,15 @@ nav img{
 }
 
 #detailbar h2{
-  padding: 0px 0 20px 20px;
+  padding: 0px 0 20px 0;
 }
 
 #cates-filter{
   position: relative;
+}
+
+.boxes{
+  font-size: 14px;
 }
 
 /*======================== filters end ============================*/
@@ -236,7 +244,7 @@ nav img{
 #detailbar #storename{
   font-family: 'latoregular';
   font-size: 30px;
-  width: 440px;
+  /*width: 440px;*/
   padding: 15px 20px 10px 20px;
   color:#d64a4a;
   text-transform: uppercase;
@@ -287,7 +295,7 @@ nav img{
 }
 
 .r-list .boxes{
-  margin:0 15px 8px 0;
+  margin:0 25px 8px 0;
 }
 
 /*===========================  star checkbox end =================================*/

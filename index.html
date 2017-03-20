@@ -9,10 +9,6 @@
    </head>
    <body>
       <div id="container">
-         <!-- <nav id="navbar">
-            <img src="img/logo.png" alt="logo" id="logo">
-            <h1 id="title"><strong>Yelp</strong> Academic Dataset</h1>
-         </nav> -->
          <div id="map"></div>
          <div id="filterbar">
             <header>
@@ -24,23 +20,23 @@
               <h2>· Star Rating ·</h2>
               <div id="star-filter">
                 <div class="boxes">
-                  <input type="checkbox" onchange="toggleCheckbox(this)" value="None" id="c5" name="check" checked/>
+                  <input class="check" type="checkbox" onchange="toggleCheckbox(this)" value="None" id="c5" name="check" checked/>
                   <label for="c5"><img src="img/5star.png"></label>
                 </div>
                 <div class="boxes">
-                  <input type="checkbox" onchange="toggleCheckbox(this)" value="None" id="c4" name="check"/>
+                  <input class="check" type="checkbox" onchange="toggleCheckbox(this)" value="None" id="c4" name="check"/>
                   <label for="c4"><img src="img/4star.png"></label>
                 </div>
                 <div class="boxes">
-                  <input type="checkbox" onchange="toggleCheckbox(this)" value="None" id="c3" name="check"/>
+                  <input class="check" type="checkbox" onchange="toggleCheckbox(this)" value="None" id="c3" name="check"/>
                   <label for="c3"><img src="img/3star.png"></label>
                 </div>
                 <div class="boxes">
-                  <input type="checkbox" onchange="toggleCheckbox(this)" value="None" id="c2" name="check"/>
+                  <input class="check" type="checkbox" onchange="toggleCheckbox(this)" value="None" id="c2" name="check"/>
                   <label for="c2"><img src="img/2star.png"></label>
                 </div>
                 <div class="boxes">
-                  <input type="checkbox" onchange="toggleCheckbox(this)" value="None" id="c1" name="check"/>
+                  <input class="check" type="checkbox" onchange="toggleCheckbox(this)" value="None" id="c1" name="check"/>
                   <label for="c1"><img src="img/star.png"></label>
                 </div>
             </div>
@@ -51,38 +47,38 @@
               <div id="review-filter">
                 <div class="r-list">
                   <div class="boxes">
-                    <input type="checkbox" onchange="toggleCheckbox(this)" value="None" id="r8" name="check"/>
-                    <label for="r8">&#8805; 500</label>
+                    <input class="check" type="checkbox" onchange="toggleCheckbox(this)" value="None" id="r8" name="check"/>
+                    <label for="r8">&#8805; 500 - 1000</label>
                   </div>
                   <div class="boxes">
-                    <input type="checkbox" onchange="toggleCheckbox(this)" value="None" id="r7" name="check"/>
-                    <label for="r7">&#8805; 1000</label>
+                    <input class="check" type="checkbox" onchange="toggleCheckbox(this)" value="None" id="r7" name="check"/>
+                    <label for="r7">&#8805; 1000 - 1500</label>
                   </div>
                   <div class="boxes">
-                    <input type="checkbox" onchange="toggleCheckbox(this)" value="None" id="r6" name="check"/>
-                    <label for="r6">&#8805; 1500</label>
+                    <input class="check" type="checkbox" onchange="toggleCheckbox(this)" value="None" id="r6" name="check"/>
+                    <label for="r6">&#8805; 1500 - 2000</label>
                   </div>
                   <div class="boxes">
-                    <input type="checkbox" onchange="toggleCheckbox(this)" value="None" id="r5" name="check"/>
-                    <label for="r5">&#8805; 2000</label>
+                    <input class="check" type="checkbox" onchange="toggleCheckbox(this)" value="None" id="r5" name="check"/>
+                    <label for="r5">&#8805; 2000 - 2500</label>
                   </div>
                 </div>
                 <div class="r-list">
                   <div class="boxes">
-                    <input type="checkbox" onchange="toggleCheckbox(this)" value="None" id="r4" name="check"/>
-                    <label for="r4">&#8805; 2500</label>
+                    <input class="check" type="checkbox" onchange="toggleCheckbox(this)" value="None" id="r4" name="check"/>
+                    <label for="r4">&#8805; 2500 - 3000</label>
                   </div>
                   <div class="boxes">
-                    <input type="checkbox" onchange="toggleCheckbox(this)" value="None" id="r3" name="check"/>
-                    <label for="r3">&#8805; 3000</label>
+                    <input class="check" type="checkbox" onchange="toggleCheckbox(this)" value="None" id="r3" name="check"/>
+                    <label for="r3">&#8805; 3000 - 3500</label>
                   </div>
                   <div class="boxes">
-                    <input type="checkbox" onchange="toggleCheckbox(this)" value="None" id="r2" name="check"/>
-                    <label for="r2">&#8805; 3500</label>
+                    <input class="check" type="checkbox" onchange="toggleCheckbox(this)" value="None" id="r2" name="check"/>
+                    <label for="r2">&#8805; 3500 - 4000</label>
                   </div>
                   <div class="boxes">
-                    <input type="checkbox" onchange="toggleCheckbox(this)" value="None" id="r1" name="check"/>
-                    <label for="r1">&#8805; 4000</label>
+                    <input class="check" type="checkbox" onchange="toggleCheckbox(this)" value="None" id="r1" name="check"/>
+                    <label for="r1">&#8805; 4000 - 4500</label>
                   </div>
                 </div>
               </div>
@@ -98,13 +94,14 @@
         </div>
          <div id="detailbar">
             <header>
-              <h2 id="storename" class="business">The Golden Tiki</h2>
+              <h2 id="storename" class="business"></h2>
             </header>
-            <h2>· Overall Star Rating ·</h2>
             <div id="d-t-l">
-              <div id="donut"></div>
+             <h2>· Overall Star Rating ·</h2>
+              <svg id="donut"></svg>
             </div>
             <div id="d-t-r">
+              <h2 class="starword">· Keywords ·</h2>
               <svg id="word"></svg>
             </div>
             <div id="d-b">
@@ -122,9 +119,10 @@
       <!-- Our JS -->
       <script type="text/javascript" src="js/script.js"></script>
       <script type="text/javascript" src="js/bar.js"></script>
-      <script type="text/javascript" src="js/donut.js"></script>
-      <script type="text/javascript" src="js/word.js"></script>
+      <!-- <script type="text/javascript" src="js/donut.js"></script> -->
+      <!-- <script type="text/javascript" src="js/word.js"></script> -->
       <script type="text/javascript" src="js/lvmap.js"></script>
-      <script type="text/javascript" src="js/stack.js"></script>
+      <!-- <script type="text/javascript" src="js/stack.js"></script> -->
+      <script type="text/javascript" src="js/checkboxs.js"></script>
    </body>
 </html>

@@ -1,16 +1,14 @@
 // *********************** show/hide sidebar *****************************
 var showfilter = document.getElementById("map");
 var reset = document.getElementById("reset");
+var checked = document.getElementsByClassName('check');
 
 showfilter.addEventListener('click', function(){
    document.getElementById('filterbar').style.width = '0px';
 });
 
-reset.addEventListener('click', function(element){
+reset.addEventListener('click', function(){
    document.getElementById('filterbar').style.width = '470px';
-   if (!element.checked) {
-      element.setAttribute("checked", "");
-   }
 });
 
 // *********************** show/hide sidebar end *****************************
@@ -19,8 +17,10 @@ reset.addEventListener('click', function(element){
 function toggleCheckbox(element){
    if (element.checked) {
       element.setAttribute("checked", "checked");
+      selectBoxs(element);
    } else {
       element.setAttribute("checked", "");
+      unselectBoxs(element);
    }
 }
 

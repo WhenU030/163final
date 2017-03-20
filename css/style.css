@@ -51,12 +51,43 @@ body{
    font-family:'latolight';
    font-size: 18px;
    width: 100%;
-   height: 700px;
-   /*position: fixed;*/
+   height: 100%;
+   overflow: scroll;
 }
 
-#container{
+#intro, #svg-container{
    height: 100%;
+   position: relative;
+}
+
+#intro{
+  height: 700px;
+  background-color: #1e1e1e;
+}
+
+#intro h1{
+  color: #fff;
+  font-family: 'latoregular';
+  font-size: 60px;
+  line-height: 80px;
+  position: absolute;
+  top: 160px;
+  left: 200px;
+}
+
+#intro h3{
+  color: #fff;
+  font-family: 'latolight';
+  font-size: 34px;
+  line-height: 50px;
+  position: absolute;
+  bottom: 140px;
+  right: 140px;
+}
+
+#intro h1 strong{
+  font-size: 100px;
+  color: #d64a4a;
 }
 
 nav, #map, #filterbar, #detailbar{
@@ -149,7 +180,7 @@ nav img{
   margin: 10px 20px 0 0;
   border: none;
   border-radius: 5px;
-  color: #a53535;
+  color: #d64a4a;
   font-family: 'latoregular';
   font-size: 13px;
   background-color:rgba(255, 255, 255, 0.8);
@@ -160,6 +191,7 @@ nav img{
   color: #fff;
   background-color: #d64a4a;
 }
+
 
 #f-t-l, #f-t-r{
   width: 45%;

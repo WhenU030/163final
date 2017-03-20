@@ -16,7 +16,6 @@ reset.addEventListener('click', function(){
                document.getElementsByName("check")[i].checked = false;
            }
    }
-
 });
 
 // *********************** show/hide sidebar end *****************************

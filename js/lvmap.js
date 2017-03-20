@@ -337,7 +337,7 @@ function stack(businessid){
     var date = stack_svg.selectAll(".date")
         .data(data)
       .enter().append("g")
-        .attr("class", "g")
+        .attr("class", "g s_rect")
         .attr("transform", function(d) { return "translate(" + "0" + ",0)"; });
         //.attr("transform", function(d) { return "translate(" + x(d.date) + ",0)"; })
 
@@ -528,6 +528,7 @@ function stack(businessid){
     }
 
   });
-   d3.selectAll(".words").remove();
+   d3.selectAll(".axis_s").remove();
+   d3.selectAll(".s_rect").remove();
 }
 

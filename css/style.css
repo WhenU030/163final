@@ -359,3 +359,26 @@ rect {
 }
 /*================================  stack End =========================*/
 
+/*================================  stack End =========================*/
+
+
+
+/*======add for bar filter to select ciricle in map */
+
+.selected-bar {
+    fill: orange;
+
+}
+
+.cir-cat-selected {
+    fill:orange;
+    opacity: 1;
+
+}
+
+
+.cir-box-selected {
+    fill:orange;
+    opacity: 1;
+
+}

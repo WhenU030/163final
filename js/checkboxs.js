@@ -1,4 +1,3 @@
-selectBoxs();
 
 function selectBoxs(target) {
     var targetid = target.id;

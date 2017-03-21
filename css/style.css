@@ -534,8 +534,15 @@ rect {
     display: none;
     min-width: 120px;
     height: auto;
-    background: none repeat scroll 0 0 #ffffff;
-    border: 1px solid #6F257F;
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.8);
+    /*border: 1px solid #6F257F;*/
     padding: 14px;
     text-align: center;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.circleMap:hover{
+  fill:#295da5;
+  opacity: 1;
 }

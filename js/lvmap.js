@@ -73,13 +73,13 @@
             .attr("cat12-class", function(d){return d.cat12;})
             .attr("cat13-class", function(d){return d.cat13;})
             .attr("cat14-class", function(d){return d.cat14;})
-             .on("mousemove", function(d){
+             .on("mouseover", function(d){
                  tooltipmap
                      .style("left", d3.event.pageX - 50 + "px")
                      .style("top", d3.event.pageY - 150 + "px")
                      .style("display", "inline-block")
-                     .html((d.name) + "<br>" +"Star:" + d.star + "Total Review: "+ d.review_count
-                         + "<br>" + "Address:" + (d.address));
+                     .html((d.name) + "<br>" +"Star: " + d.star + "<br>Total Reviews: "+ d.review_count
+                         + "<br>" + "Address: " + (d.address));
              })
              .on("mouseout", function(d){ tooltip.style("display", "none");});
             // .on('click', selectBus)；

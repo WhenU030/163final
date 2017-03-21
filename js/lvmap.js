@@ -362,7 +362,7 @@ function stack(businessid){
           classLabel = d.name.replace(/\s/g, ''); //remove spaces
           return "class" + classLabel;
         })
-        .attr("transition", "0.5s")
+        // .attr("transition", "0.2s")
         .style("fill", function(d) { return s_color(d.name); });
 
     date.selectAll("rect")
@@ -464,6 +464,8 @@ function stack(businessid){
         .attr("x", s_w - 24)
         .attr("y", 9)
         .attr("dy", ".35em")
+        .style("fill", "#fff")
+        .style("font-size", "14px")
         .style("text-anchor", "end")
         .text(function(d) { return d; });
 
@@ -473,7 +475,7 @@ function stack(businessid){
         //restore shifted bars to original posn
         d3.select(d[idx])
           .transition()
-          .duration(1000)
+          .duration(200)
           .attr("y", y_orig[i]);
       })
 
@@ -482,8 +484,8 @@ function stack(businessid){
         if (legendClassArray[i] != class_keep) {
           d3.selectAll(".class" + legendClassArray[i])
             .transition()
-            .duration(1000)
-            .delay(750)
+            .duration(200)
+            // .delay(350)
             .style("opacity", 1);
         }
       }
@@ -500,7 +502,7 @@ function stack(businessid){
         if (legendClassArray[i] != class_keep) {
           d3.selectAll(".class" + legendClassArray[i])
             .transition()
-            .duration(1000)
+            .duration(200)
             .style("opacity", 0);
         }
       }
@@ -525,7 +527,7 @@ function stack(businessid){
         d3.select(d[idx])
           .transition()
           .ease("bounce")
-          .duration(1000)
+          .duration(200)
           .delay(750)
           .attr("y", y_new);
 

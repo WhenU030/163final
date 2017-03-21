@@ -491,27 +491,39 @@ rect {
 
 }
 .cir-cat-selected {
-    /*fill:orange;*/
-    opacity: 0;
+    fill:orange;
+    opacity: 1;
 
 }
 
 
 .cir-rev-selected{
-    /*fill:orange;*/
-    opacity: 0;
+    fill:orange;
+    opacity: 1;
 }
 
 .cir-star-selected {
-    /*fill:orange;*/
-    opacity: 0;
+    fill:orange;
+    opacity: 1;
 
 }
 
 
 
-.cir-mul-selected {
-    /*fill:#d64a4a;*/
-    opacity: 1;
+/*.cir-mul-selected {*/
+    /*!*fill:#d64a4a;*!*/
+    /*opacity: 1;*/
 
+/*}*/
+
+/*========================tooltip for the circle in map*/
+.toolTipMap {
+    position: absolute;
+    display: none;
+    min-width: 120px;
+    height: auto;
+    background: none repeat scroll 0 0 #ffffff;
+    border: 1px solid #6F257F;
+    padding: 14px;
+    text-align: center;
 }

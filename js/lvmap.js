@@ -13,6 +13,9 @@
     var circleGroup = svgMap.append("g").attr("class", "leaflet-zoom-hide");
 
 
+    var tooltipmap = d3.select("#map").append("div").attr("class", "toolTipMap");
+
+
     d3.csv('data/business_final_version.csv', function (error, dataset) {
         if (error) throw error;
 
@@ -69,7 +72,16 @@
             .attr("cat11-class", function(d){return d.cat11;})
             .attr("cat12-class", function(d){return d.cat12;})
             .attr("cat13-class", function(d){return d.cat13;})
-            .attr("cat14-class", function(d){return d.cat14;});
+            .attr("cat14-class", function(d){return d.cat14;})
+             .on("mousemove", function(d){
+                 tooltipmap
+                     .style("left", d3.event.pageX - 50 + "px")
+                     .style("top", d3.event.pageY - 150 + "px")
+                     .style("display", "inline-block")
+                     .html((d.name) + "<br>" +"Star:" + d.star + "Total Review: "+ d.review_count
+                         + "<br>" + "Address:" + (d.address));
+             })
+             .on("mouseout", function(d){ tooltip.style("display", "none");});
             // .on('click', selectBus)；
 
         function updateMap() {
@@ -86,9 +98,6 @@
 
       });
 
-function selectBus() {
-
-    }
 
 
 function donut(businessid){

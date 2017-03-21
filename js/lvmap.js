@@ -1,5 +1,5 @@
 
-    var leafletMap = L.map('map').setView([36.18, -115.17], 10);
+    var leafletMap = L.map('map').setView([36.18, -115.17], 11);
 
     L.tileLayer('http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png',{
   maxZoom: 19,

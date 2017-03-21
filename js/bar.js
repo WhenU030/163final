@@ -62,7 +62,7 @@ function selectCat() {
 
         var target =d3.select(this).attr("cat-class");
 
-        var targetcir = d3.selectAll('.circleMap').each(function (d) {
+        var targetcir = d3.selectAll('.cir-rev-selected').each(function (d) {
             var match = d3.select(this).attr("cat1-class");
             if(target == match) {
                 d3.select(this).classed('cir-cat-selected', false);
@@ -120,7 +120,29 @@ function selectCat() {
                 d3.select(this).classed('cir-cat-selected', false);
             }
 
+
         });
+        // d3.selectAll('.cir-rev-selected').style("opacity", 0);
+        // d3.selectAll('.cir-cat-selected').style("opacity", 1);
+        //
+
+        var temp = 0;
+        d3.selectAll('.cir-rev-selected').each(function (d) {
+            if(d3.select(this).classed('cir-cat-selected')){
+                temp = 1;
+            }
+        });
+
+        if(temp != 1){
+            d3.selectAll('.cir-rev-selected').style("opacity", 1);
+        }
+        else{
+            d3.selectAll('.cir-rev-selected').style("opacity", 0);
+        }
+        d3.selectAll('.cir-cat-selected').style("opacity", 1);
+        // d3.selectAll('.cir-rev-selected.cir-rev-selected.cir-cat-selected').classed('cir-notslected', false);
+        // d3.selectAll('.circleMap').classed('cir-notslected', false);
+
 
 
     }
@@ -129,7 +151,7 @@ function selectCat() {
 
         var target =d3.select(this).attr("cat-class");
 
-        var targetcir = d3.selectAll('.circleMap').each(function (d) {
+        var targetcir = d3.selectAll('.cir-rev-selected').each(function (d) {
             var match = d3.select(this).attr("cat1-class");
             if(target == match) {
                 d3.select(this).classed('cir-cat-selected', true);
@@ -187,10 +209,16 @@ function selectCat() {
                 d3.select(this).classed('cir-cat-selected', true);
             }
 
+
         });
+
+        d3.selectAll('.cir-rev-selected').style("opacity", 0);
+        d3.selectAll('.cir-cat-selected').style("opacity", 1);
+
     }
 
-    multifilterUpdate();
+    // d3.selectAll('.circleMap').classed('cir-notslected', true);
+    // d3.selectAll('.cir-rev-selected.cir-rev-selected.cir-cat-selected').classed('cir-notslected', false);
 
 
 }

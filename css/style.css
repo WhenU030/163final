@@ -458,27 +458,27 @@ rect {
 
 }
 .cir-cat-selected {
-    /*fill:orange;*/
-    opacity: 0;
+    fill:orange;
+    opacity: 1;
 
 }
 
 
 .cir-rev-selected{
-    /*fill:orange;*/
-    opacity: 0;
+    fill:orange;
+    opacity: 1;
 }
 
 .cir-star-selected {
-    /*fill:orange;*/
-    opacity: 0;
-
-}
-
-
-
-.cir-mul-selected {
-    /*fill:#d64a4a;*/
+    fill:orange;
     opacity: 1;
 
 }
+
+
+
+/*.cir-mul-selected {*/
+    /*!*fill:#d64a4a;*!*/
+    /*opacity: 1;*/
+
+/*}*/

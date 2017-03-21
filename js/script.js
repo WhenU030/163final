@@ -16,6 +16,14 @@ reset.addEventListener('click', function(){
                document.getElementsByName("check")[i].checked = false;
            }
    }
+
+   d3.selectAll('.circleMap').style("opacity", 1);
+   d3.selectAll('.cir-star-selected').class('cir-star-selected', false);
+   d3.selectAll('.cir-rev-selected').class('cir-rev-selected', false);
+   d3.selectAll('.cir-cat-selected').class('cir-cat-selected', false);
+   d3.selectAll('.selected-bar').class('selected-bar', false);
+
+
 });
 
 // *********************** show/hide sidebar end *****************************

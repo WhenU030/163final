@@ -191,8 +191,6 @@ function donut(businessid){
              word(nextFile);
           });
 
-
-
           var legendDonut = svgDonut.selectAll('.legendDonut')
             .data(colorpie.domain())
             .enter()
@@ -211,7 +209,6 @@ function donut(businessid){
             .attr('height', legendRectSizePie)
             .style('fill', colorpie)
             .style('stroke', colorpie)
-
 
           legendDonut.append('text')
             .attr('x', legendRectSizePie + legendSpacingPie)
